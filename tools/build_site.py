@@ -110,6 +110,7 @@ def page(langs, code):
 
 {intro}
 
+  <figure class="quote"><blockquote>{e(d['quote'])}</blockquote><figcaption>{e(d['quote_by'])}</figcaption></figure>
   <p class="claim">{e(d['claim'])}</p>
 
   <h2>{e(d['h_not'])}</h2>
@@ -223,6 +224,11 @@ ol.charter li:first-child { font-weight: 700; }
   text-align: center; font-weight: 700; font-size: .85rem; line-height: 1.6rem; }
 .note { border-inline-start: 3px solid var(--line); padding-block: .2rem; padding-inline-start: 1rem;
   color: var(--soft); font-size: .95rem; }
+.quote { margin: 2.4rem 0 0; }
+.quote blockquote { margin: 0; font-size: 1.25rem; font-style: italic; line-height: 1.45; }
+.quote figcaption { margin-top: .3rem; font: .8rem system-ui, sans-serif; color: var(--soft); }
+.quote figcaption::before { content: "— "; }
+.quote + .claim { margin-top: 1rem; }
 .notsay { margin: 1.2rem 0 0; padding: .7rem 1rem; background: color-mix(in srgb, var(--ink) 5%, transparent);
   font-size: .97rem; border-radius: 4px; }
 .safety { border: 2px solid var(--accent); border-radius: 4px; padding: .8rem 1rem; font-size: .97rem;
