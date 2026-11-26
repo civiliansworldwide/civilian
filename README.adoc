@@ -2,6 +2,8 @@
 
 Ein Friedensgedanke von unten: Zivilisten aller Seiten gehen los, ohne Fahne, ohne Feind.
 
+Webseite: https://civiliansworldwide.github.io/civilian/[civiliansworldwide.github.io/civilian]
+
 * link:civilian.adoc[civilian.adoc]: der Ausgangstext („deep night thought“)
 * link:konzept.adoc[konzept.adoc]: das ausgearbeitete Konzept mit Charta, Recherche zu ähnlichen Ansätzen, Modell und Risiken
 * link:route.adoc[route.adoc]: Lagebild der Krisenregionen (Stand 25.11.2026) und Pilgerroute Berlin → Jerusalem mit Sternwegen
