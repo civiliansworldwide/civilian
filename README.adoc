@@ -1,0 +1,18 @@
+= civilian
+
+Ein Friedensgedanke von unten: Zivilisten aller Seiten gehen los, ohne Fahne, ohne Feind.
+
+* link:civilian.adoc[civilian.adoc]: der Ausgangstext („deep night thought“)
+* link:konzept.adoc[konzept.adoc]: das ausgearbeitete Konzept mit Charta, Recherche zu ähnlichen Ansätzen, Modell und Risiken
+* link:route.adoc[route.adoc]: Lagebild der Krisenregionen (Stand 25.11.2026) und Pilgerroute Berlin → Jerusalem mit Sternwegen
+* link:ansprache.adoc[ansprache.adoc]: wie man Menschen gewinnt (Schneeball statt Spam), mit Vorlagen
+* link:pamphlet.adoc[pamphlet.adoc]: Text des Flugblatts (Fassung 0.1)
+* `druck/pamphlet-a4.html`: Druckvorlage, A4 quer mit 2× A5 zum Durchschneiden
+* `tools/reisewarnungen.py`: gleicht die Route mit den Reisewarnungen des Auswärtigen Amts ab und erzeugt `lage-aa.adoc` (Aufruf: `python3 -I tools/reisewarnungen.py`)
+* `druck/qr.sh <URL>`: erzeugt den QR-Code (`druck/qr.svg`). Die URL muss außerdem in `pamphlet-a4.html` bei `URL_TEXT` eingetragen werden.
+
+HTML erzeugen:
+
+----
+asciidoctor -a webfonts! konzept.adoc
+----

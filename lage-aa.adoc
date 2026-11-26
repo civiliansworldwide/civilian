@@ -1,0 +1,36 @@
+// automatisch erzeugt von tools/reisewarnungen.py am 25.11.2026
+Abgerufen am 25.11.2026 von https://www.auswaertiges-amt.de/opendata/travelwarning[Auswärtiges Amt OpenData].
+
+=== Die Karte der verbrannten Erde
+
+Wo das Auswärtige Amt warnt, leben Menschen, die nicht weg können. Für sie geht Civilian.
+
+*Reisewarnung* (19): Afghanistan, Belarus, Haiti, Irak, Iran, Jemen, Libyen, Mali, Myanmar, Niger, Palästinensische Gebiete*, Russische Föderation, Saudi-Arabien, Somalia, Sudan, Syrien, Südsudan, Ukraine, Zentralafrikanische Republik
+
+*Teilreisewarnung* (28): Algerien, Armenien, Aserbaidschan, Benin, Burkina Faso, Burundi, Côte d'Ivoire, Demokratische Republik Kongo, Eritrea, Ghana, Indien, Japan, Kambodscha, Kamerun, Kenia, Kolumbien, Libanon, Mauretanien, Mosambik, Nigeria, Pakistan, Philippinen, Thailand, Togo, Tschad, Venezuela, Ägypten, Äthiopien
+
+=== Abgleich mit der Route
+
+[cols="3,2,4",options="header"]
+|===
+| Etappe | Stufe | Länder
+| 1–2 Berlin → Görlitz/Zgorzelec | 🟢 offen | Deutschland: Inland; Polen: –
+| 3–4 Kraków → Medyka | 🟢 offen | Polen: –
+| 4a Innere Staffel Ukraine | 🔴 von innen tragen | Ukraine: Reisewarnung
+| 5 → Sarajevo → Mostar | 🟢 offen | Ungarn: –; Kroatien: –; Bosnien und Herzegowina: –
+| 6 → Mitrovica | 🟢 offen | Montenegro: –; Kosovo: –
+| 7 → Thessaloniki → Istanbul | 🟢 offen | Nordmazedonien: –; Griechenland: –; Türkei: –
+| 8 Nikosia | 🟢 offen | Zypern: –
+| 9–10 Haifa → Jaffa → Jerusalem | 🟢 offen | Israel: –
+| Westjordanland / Gaza | 🔴 von innen tragen | Palästinensische Gebiete*: Reisewarnung
+| Sternweg Kaukasus | 🟠 nur lokal | Georgien: –; Armenien: Teilreisewarnung; Türkei: –
+| Sternweg Korea | 🟢 offen | Republik Korea (Südkorea): –
+| Sternweg Indien – Pakistan | 🟠 nur lokal | Indien: Teilreisewarnung; Pakistan: Teilreisewarnung
+| Sternweg Goma ↔ Gisenyi | 🟠 nur lokal | Demokratische Republik Kongo: Teilreisewarnung; Ruanda: –
+| Sternweg Sudan – Tschad | 🔴 von innen tragen | Sudan: Reisewarnung; Tschad: Teilreisewarnung
+| Sternweg Myanmar – Thailand | 🔴 von innen tragen | Myanmar: Reisewarnung; Thailand: Teilreisewarnung
+| Sternweg Tijuana ↔ San Diego | 🟢 offen | Mexiko: –; USA: –
+| Mekka (nur Muslime) | 🔴 von innen tragen | Saudi-Arabien: Reisewarnung
+|===
+
+Legende: 🟢 Etappe möglich · 🟡 mit Vorsicht · 🟠 nur mit lokalen Gastgebern, Gefahrengebiete meiden · 🔴 kein Gang von außen; Stimmen werden von innen gesammelt und an der Grenze übergeben.

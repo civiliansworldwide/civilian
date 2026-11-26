@@ -1,0 +1,312 @@
+= Civilian – Konzept
+:toc: left
+:toc-title: Inhalt
+:toclevels: 3
+:sectnums:
+:lang: de
+
+Stand: 25.11.2026
+
+Grundlage: link:civilian.adoc[civilian.adoc] („deep night thought“)
+
+== Der Gedanke in einem Satz
+
+Wenn Regierungen und Armeen keinen Frieden schaffen, dann zeigen ihn die Menschen ohne Uniform: Sie gehen los, jeder von dort, wo er lebt, ohne Fahne, ohne Feind, ohne Seite.
+
+== Leitprinzip: Was fast jeder unterschreiben kann
+
+Damit die Mehrheit der Menschen zustimmen kann, ohne lange nachzudenken, gilt eine strenge Regel:
+
+[IMPORTANT]
+====
+*Civilian fordert nichts, was einen Menschen zum Gegner eines anderen macht.*
+
+Es gibt keine Schuldzuweisung, keine Partei, keine Religion, keinen Staat als Feindbild und keine Einzelforderung an eine bestimmte Regierung. Alles, was Lager bildet, bleibt draußen.
+====
+
+Was übrig bleibt, ist der kleinste gemeinsame Nenner der Menschheit. Er ist kleiner, als man denkt, aber er ist riesig in seiner Reichweite.
+
+== Die Charta der Zivilisten
+
+Sieben Sätze, kurz genug für eine Postkarte.
+
+[.lead]
+. Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.
+. Jedes Kind auf dieser Erde hat das Recht, ohne Angst vor Bomben aufzuwachsen.
+. Zivilisten, egal welcher Seite, dürfen niemals Ziel von Gewalt sein.
+. Ich wähle keine Seite gegen Menschen, ich wähle die Seite des Lebens.
+. Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.
+. Ich gehe einen Schritt, so groß oder so klein, wie ich kann.
+. Ich glaube nicht, dass ich allein die Welt rette. Aber ich glaube, dass wir zusammen nicht nichts tun müssen.
+
+.English version
+[%collapsible]
+====
+. I don't want war. And I believe the people on the other side don't want it either.
+. Every child on this earth has the right to grow up without fear of bombs.
+. Civilians, on any side, must never be targets of violence.
+. I take no side against people. I take the side of life.
+. I open my door, my table and my ear to those on the road.
+. I take a step, as big or as small as I can.
+. I don't believe I alone can save the world. But I believe that together we don't have to do nothing.
+====
+
+=== Warum diese Sätze konsensfähig sind
+
+[cols="1,3",options="header"]
+|===
+| Satz | Begründung
+| 1 | Verlangt keinen Pazifismus. Auch wer sein Land verteidigen würde (laut WIN/Gallup 2015 weltweit 61 %), kann unterschreiben. Der Satz greift den Kern jeder Kriegspropaganda an: die Behauptung, die andere Seite wolle den Krieg.
+| 3 | Entspricht dem Kern des humanitären Völkerrechts (Genfer Konventionen: Zivilisten dürfen nicht angegriffen werden). Das haben praktisch alle Staaten der Welt unterzeichnet.
+| 2 | Kinder sind der stärkste moralische Konsens überhaupt. Niemand will öffentlich das Gegenteil vertreten.
+| 4 | Kein „für X, gegen Y“. Wer im Konflikt Partei ist, kann trotzdem unterschreiben, weil sich der Satz gegen niemanden richtet.
+| 5 | Gastfreundschaft ist in allen großen Kulturen und Religionen eine Tugend.
+| 6 | Niedrigste Einstiegshürde: Auch ein Schritt vor die eigene Haustür zählt.
+| 7 | Nimmt den Zynikern den Wind aus den Segeln: Es wird keine Weltrettung versprochen.
+|===
+
+== Wer so etwas schon versucht hat
+
+Die Idee ist nicht neu. Das ist eine gute Nachricht, denn es gibt Erfahrungen, aus denen man lernen kann.
+
+[cols="2,1,3,3",options="header"]
+|===
+| Vorhaben | Jahr | Was passiert ist | Lehre für Civilian
+
+| *Peace Pilgrim* (Mildred Norman), USA
+| 1953–1981
+| Eine einzelne Frau, kein Geld, nur eine Tunika mit der Aufschrift „Peace Pilgrim“. Über 25.000 Meilen zu Fuß, 28 Jahre lang.
+| Ein Mensch allein reicht als Anfang. Radikale Einfachheit wirkt.
+
+| *Satish Kumar & E. P. Menon*, Delhi → Moskau, Paris, London, Washington
+| 1962–1964
+| Rund 8.000 Meilen zu den Hauptstädten der Atommächte, *ohne Geld*, auf Rat von Vinoba Bhave. Sie lebten von der Gastfreundschaft Fremder.
+| Ohne Geld zu gehen ist kein Mangel, sondern die Botschaft. Gastfreundschaft verbindet Menschen über Grenzen hinweg.
+
+| *Great Peace March for Global Nuclear Disarmament*, Los Angeles → Washington
+| 1986
+| 1.200 Teilnehmer statt der erhofften 5.000. Die Trägerorganisation ging nach zwei Wochen mit rund 500.000 $ Schulden pleite. Die Marschierenden organisierten sich selbst neu und kamen nach 6.000 km an.
+| *Keine zentrale Großorganisation mit großem Budget.* Selbstorganisation trägt weiter als Geld.
+
+| *Women Cross DMZ*, Korea
+| 2015
+| 30 Frauen aus 15 Ländern, darunter zwei Friedensnobelpreisträgerinnen. Der Fußweg über die Grenze wurde verweigert, sie mussten im Bus queren. Es gab Kritik, sie seien politisch instrumentalisiert worden.
+| Staaten kontrollieren Grenzen. Wer mit einem Regime verhandelt, gerät in den Verdacht der Parteinahme.
+
+| *Civil March for Aleppo*, Berlin → Syrien
+| 2016–2017
+| Die Fluchtroute rückwärts, rund 3.000 km. *Nur weiße Fahnen erlaubt.* 300–400 Teilnehmer statt 5.000.
+| Neutralitätssymbolik funktioniert. Erwartungen an die Teilnehmerzahl sollten realistisch sein.
+
+| *Jai Jagat*, Delhi → Genf
+| 2019–2020
+| 50 Gandhianer starten zu einem 10.000-km-Marsch. Nach 360 km in Armenien wird er wegen Corona abgebrochen und läuft online weiter.
+| Ein einziger langer Zug ist verwundbar. *Viele kurze, verteilte Wege sind robuster.*
+
+| *Global March to Gaza*, Ägypten → Rafah
+| 2025
+| Tausende Menschen aus über 50 Ländern. Ägyptische Behörden reagierten mit Festnahmen und Abschiebungen.
+| Der direkte Weg in ein aktives Kriegsgebiet scheitert an Staaten und gefährdet Menschen. Außerdem wird er als Parteinahme gelesen.
+
+| *Walk for Peace* (buddhistische Mönche), Fort Worth → Washington
+| 2025–2026
+| 19 Mönche, rund 2.300 Meilen. Die Gruppe stellte keine politische Forderung, begeisterte trotzdem Millionen und wurde von großen Menschenmengen empfangen. Bei einem Unfall verlor ein Mönch ein Bein.
+| *Die stärkste Bestätigung für Civilian:* Gerade weil der Marsch nichts gegen jemanden forderte, konnten sich alle anschließen. Gleichzeitig zeigt er: Sicherheit auf der Straße ist ernst.
+
+| *Nonviolent Peaceforce* (unbewaffneter ziviler Schutz)
+| seit 2002
+| Trainierte, unbewaffnete Zivilisten schützen Zivilisten in Konfliktgebieten wie Südsudan, Philippinen, Myanmar und Irak/Syrien. Sie gehen nur *auf Einladung lokaler Gruppen*. Das Prinzip ist in UN-Sicherheitsratsresolutionen anerkannt.
+| Das ist der professionelle Arm der Idee. Civilian geht nur dort in Konfliktzonen, wo solche Strukturen existieren und eingeladen wird.
+|===
+
+Weitere historische Bezugspunkte sind Gandhis Salzmarsch (1930), auf den der Ausgangstext selbst verweist, und der Jakobsweg als Modell eines Weges, der aus vielen Richtungen kommt.
+
+== Das Modell: Wie Civilian funktioniert
+
+=== Drei Stufen der Teilnahme
+
+Jeder entscheidet selbst, wie weit er geht. Jede Stufe ist vollwertig.
+
+[cols="1,2,3",options="header"]
+|===
+| Stufe | Name | Was man tut
+| 1 | *Unterschreiben* | Man unterschreibt die Charta. Das kostet 30 Sekunden.
+| 2 | *Vor die Tür gehen* | Am Weltfriedenstag, dem *21. September* (von der UN ausgerufen, daher politisch unverdächtig), geht man einen Weg in der eigenen Stadt. Das können 100 Meter sein, oder einmal um den Block.
+| 3 | *Die Staffel tragen* | Man läuft eine Etappe einer Langstrecke, zum Beispiel von der eigenen Stadt in die nächste, und übergibt dort an andere.
+|===
+
+=== Das Staffelprinzip
+
+Der Ausgangstext träumt von einer „menschlichen Flut“, die durch die ganze Welt zieht. Die Erfahrung zeigt aber, dass ein einzelner langer Zug an Geld, Grenzen oder Krankheit scheitert (Great Peace March, Jai Jagat). Deshalb:
+
+* *Niemand muss die ganze Strecke gehen.* Jede Etappe ist ein Tag. Danach übernehmen andere.
+* *Ein Gegenstand wandert mit*, zum Beispiel ein Buch, in das jeder, der ein Stück getragen hat, einen Satz schreibt. Kein Banner, sondern ein Zeugnis.
+* *Die Wege kommen aus allen Richtungen*, wie beim Jakobsweg, nur ohne ein einziges Ziel. Sie verbinden Orte, an denen Menschen verschiedener Seiten leben.
+* *Wo eine Grenze schließt, endet die Etappe an der Grenze.* Auf der anderen Seite geht eine andere Gruppe weiter. Das ist Absicht und keine Niederlage: Das Bild zweier Gruppen, die sich an einem geschlossenen Schlagbaum zuwinken, sagt mehr als jede Parole.
+
+=== Kriegsgebiete: ehrlich bleiben
+
+Der Ausgangstext will „durch Gaza, die Ukraine, Teheran“ gehen. Für die Mehrheit unterschreibbar ist das nur in dieser Form:
+
+* Civilian *schickt niemanden ins Feuer.* Kein Mensch soll für ein Symbol sterben.
+* Die Wege führen *bis an die Ränder* der Kriegsgebiete. Hinein gehen sie nur dort, wo lokale Gruppen *einladen* und Organisationen wie Nonviolent Peaceforce den Schutz verantworten.
+* Menschen, die *in* Kriegsgebieten leben, sind die wichtigsten Teilnehmer. Ihr Schritt vor die eigene Tür zählt mehr als jeder lange Marsch von außen.
+
+=== Offene Türen
+
+Der schönste Teil des Ausgangstextes: _„if there's still any bars open along the way, throw open the doors.“_
+
+* Kneipen, Cafés, Gemeindehäuser, Moscheen, Kirchen, Tempel und Privatleute können sich als *offene Tür* eintragen: ein Glas Wasser, ein Teller Suppe, ein Platz zum Schlafen.
+* Nach dem Vorbild von Satish Kumar: *Wer geht, trägt kein Geld bei sich.* Die Gastgeber sind genauso Teil der Bewegung wie die Gehenden.
+* Es geht nicht um Askese. Lachen, Musik und Essen gehören dazu. Der Marsch zeigt, wofür man ihn geht.
+
+== Sich als Zivilist zu erkennen geben
+
+Unterschreiben allein reicht nicht. Civilian wird erst wirklich, wenn Menschen *sichtbar* werden: für Nachbarn, auf der Straße und online. Jeder soll sehen, dass er nicht allein ist. Das ist der Kern der kritischen Masse, denn Menschen machen mit, wenn sie sehen, dass andere mitmachen.
+
+=== Das Zeichen: das Wort selbst
+
+Das Erkennungszeichen ist *kein Logo, sondern das Wort*, handgeschrieben in der eigenen Sprache: *ZIVILIST*, *CIVILIAN* und so weiter. Die Übersetzungen kommen von den Menschen, die online mitschreiben.
+
+* Jeder kann es mit Stift, Kreide oder Pinsel selbst machen. Es kostet nichts.
+* Es gehört niemandem und lässt sich von keiner Partei und keiner Marke vereinnahmen.
+* Es funktioniert in jeder Sprache und in jeder Schrift.
+
+Was wir bewusst *nicht* verwenden:
+
+* *Weiße Armbinden oder Tücher.* Weiß steht für Kapitulation, und russische Truppen trugen beim Einmarsch in die Ukraine 2022 weiße Armbinden. Das Zeichen ist dadurch belastet und kann gefährlich sein.
+* *Geschützte Schutzzeichen*, also Rotes Kreuz und Roter Halbmond oder das blaue Dreieck auf orangem Grund des Zivilschutzes (Art. 66 Zusatzprotokoll I). Ihr Missbrauch ist verboten und schwächt den Schutz, den sie im Krieg bieten.
+* *Nationalfahnen, Parteifarben und religiöse Symbole.*
+
+=== Fünf Stufen, sich zu zeigen
+
+Von ganz privat bis ganz öffentlich. Jeder wählt seine Stufe selbst.
+
+[cols="1,3,1,2",options="header"]
+|===
+| Stufe | Was man tut | Kosten | Wer es sieht
+| 1 | *Zivilistenpass* ausfüllen und bei sich tragen | 0 € | man selbst
+| 2 | Zettel ins Fenster hängen: _„Hier wohnt ein Zivilist.“_ | 0 € | Nachbarn
+| 3 | Am 21. September das Wort mit *Kreide* vor die eigene Haustür schreiben | 1 € | die Straße
+| 4 | *Foto* der eigenen Füße auf der Türschwelle neben dem Kreidewort, mit Vorname und Stadt, online teilen | 0 € | die Welt
+| 5 | Eine *Etappe* der Staffel gehen oder eine *offene Tür* sein | Zeit | alle unterwegs
+|===
+
+Das Fußfoto ist Absicht: *Kein Gesicht* ist nötig. Damit können auch Menschen mitmachen, für die Sichtbarkeit gefährlich ist.
+
+=== Der Zivilistenpass
+
+Das Flugblatt ist selbst der Pass, ein A5-Blatt, gefaltet zu einem kleinen Heft.
+
+* *Innen:* Vorname, Stadt und ein Satz in eigener Handschrift („Ich will keinen Krieg, weil …“).
+* *Stempelfelder:* Offene Türen wie Kneipen, Cafés oder Gemeindehäuser stempeln oder unterschreiben den Pass, nach dem Vorbild des Pilgerpasses (Credencial) auf dem Jakobsweg.
+* *Rückseite:* Satz 1 der Charta in den Sprachen „der anderen Seite“. Der Pass ist dazu da, weiterzuwandern.
+* *QR-Code:* Er führt zum Mitschreiben am Text und zum Teilen des eigenen Fotos.
+* *Ehrlich gekennzeichnet:* „Kein amtliches Dokument. Behalte deinen echten Pass.“ Wir schmeißen unsere Pässe nicht weg, denn für Geflüchtete sind sie überlebenswichtig. Wir legen nur einen dazu, der unter Zivilisten gilt.
+
+Vorbild ist Garry Davis, der 1948 seinen US-Pass abgab und sich zum Weltbürger erklärte. Sein symbolischer „Weltpass“ wurde je nach Quelle 750.000- bis 950.000-mal ausgestellt.
+
+=== Schutz für die, die es riskieren
+
+In manchen Ländern ist es strafbar, öffentlich „Ich will keinen Krieg“ zu sagen. In Russland gilt das zum Beispiel seit März 2022 unter dem Vorwurf der „Diskreditierung der Streitkräfte“. Deshalb gilt:
+
+* Jede Stufe funktioniert *anonym*: kein Gesicht, nur ein Vorname, die Stadt ist freiwillig.
+* Die Webseite speichert keine IP-Adressen, verwendet kein Tracking und verlangt keine E-Mail-Adresse.
+* *Niemand wird gedrängt, sich in Gefahr zu bringen.* Ein Pass in der Schublade zählt genauso.
+
+== Organisation
+
+[cols="1,3",options="header"]
+|===
+| Prinzip | Umsetzung
+| *Dezentral* | Es gibt kein Hauptquartier und keine Spendenzentrale, die pleitegehen kann. Lokale Gruppen organisieren ihre Etappen selbst.
+| *Kein Geld im Zentrum* | Die Infrastruktur beschränkt sich auf das Nötigste: eine Webseite mit der Charta, eine Karte der Etappen und eine Liste der offenen Türen. Sie wird ehrenamtlich und mit offener Software betrieben.
+| *Keine Gesichter* | Es gibt keinen Anführer, keine Promi-Galionsfigur und keine Partei, die die Bewegung vereinnahmen kann.
+| *Gewaltfreiheit ohne Ausnahme* | Wer Gewalt anwendet oder dazu aufruft, gehört nicht dazu, auch nicht „für die gute Sache“.
+| *Sicherheit zuerst* | Etappen auf sicheren Wegen, mit Begleitung im Straßenverkehr (Lehre aus dem Unfall der Mönche) und ohne Teilnahme Minderjähriger an Langstrecken ohne Erziehungsberechtigte.
+| *Legal* | Jede Etappe wird als Versammlung angemeldet, wo das nötig ist. Civilian bricht keine Gesetze, um Aufmerksamkeit zu erzeugen.
+|===
+
+== Risiken und Gegenmaßnahmen
+
+[cols="2,3",options="header"]
+|===
+| Risiko | Gegenmaßnahme
+| Vereinnahmung durch eine Konfliktpartei | Strenge Regel „nichts gegen jemanden“. Eine Etappe, die einseitige Parolen führt, ist nicht Teil von Civilian.
+| Vorwurf der Naivität | Die Naivität wird offen zugegeben, siehe Satz 7 der Charta. Der Ausgangstext tut das auch, und genau das macht ihn glaubwürdig.
+| Zu wenig Teilnehmer | Erfolg wird nicht an Menschenmassen gemessen. Jede gegangene Etappe und jede offene Tür zählt. Das Buch der Staffel wird mit jeder Etappe dicker.
+| Gefahr für Leib und Leben | Keine Märsche in aktive Kampfgebiete ohne Einladung und professionellen Schutz.
+| Staatliche Blockaden | Etappen enden an Grenzen. Auf der anderen Seite geht es weiter.
+| Strafverfolgung in autoritären Staaten | Alle Stufen funktionieren anonym (Fußfoto, Vorname). Keine Datenspeicherung, die jemanden verraten könnte.
+| Belastete Symbole | Kein weißes Tuch, keine Schutzzeichen. Nur das handgeschriebene Wort.
+| Kommerz und Selbstdarstellung | Keine Sponsoren-Logos, kein zentraler Shop und kein Influencer-Marketing.
+|===
+
+== Umsetzungsplan
+
+Der Plan beginnt bewusst mit *einer einzigen Person in einer einzigen Stadt*. Jede Phase hat ein messbares Ziel. Wird es nicht erreicht, wird nachgebessert statt aufgeblasen.
+
+[cols="1,1,4,2",options="header"]
+|===
+| Phase | Zeitraum | Was passiert | Erfolgskriterium
+
+| 0 – Grundlagen
+| Dez 2026
+| Name, Zeichen und Text der Fassung 1.0 festlegen. Zivilistenpass gestalten. Webseite (GitHub Pages) mit Text, Mitschreib-Pad und Foto-Anleitung aufsetzen. Hashtag prüfen. Impressum eintragen.
+| Webseite online, QR-Code funktioniert. Kosten: 0 €
+
+| 1 – Eine Stadt
+| Jan–Mär 2027
+| 100 A4-Blätter drucken, das ergibt 200 Pässe (Copyshop, etwa 10–20 €). Persönlich verteilen. *10 offene Türen* in der eigenen Stadt persönlich gewinnen, ein Stempel kostet optional etwa 15 €. Erste Fotos sammeln.
+| 50 Menschen zeigen sich (Stufe 2–4), 10 offene Türen
+
+| 2 – Nachahmen leicht machen
+| Apr–Jun 2027
+| *Starter-Kit* auf der Webseite: Druckvorlage plus eine Seite Anleitung („So startest du Civilian in deiner Stadt“). Übersetzungen kommen von Online-Mitschreibenden. Lokalpresse ansprechen.
+| 10 Städte, 5 Sprachen
+
+| 3 – Der Moment
+| Jul–Sep 2027
+| Aufruf zum *21. September 2027, 18:00 Uhr Ortszeit*: Jeder geht vor die Tür und schreibt das Wort mit Kreide. Über die Zeitzonen läuft daraus eine Welle einmal um die Erde, und die Webseite zeigt sie als Karte.
+| 1.000 Fotos aus mindestens 10 Ländern
+
+| 4 – Die Staffel
+| ab Okt 2027
+| Erste Etappen zwischen Städten, in denen es offene Türen gibt. Kontakt zu Nonviolent Peaceforce, Jai Jagat und anderen. Civilian soll nichts ersetzen, sondern zu ihnen hinführen.
+| erste Staffel über eine Landesgrenze
+|===
+
+=== Ehrliche Erwartungen
+
+* Im ersten Jahr geht es um *Tausende, nicht Millionen*. Earth Hour begann 2007 in einer einzigen Stadt (Sydney) und erreichte erst später rund 190 Länder.
+* Die Friedensforscherin Erica Chenoweth fand heraus, dass gewaltfreie Bewegungen sich meist durchsetzen, wenn mindestens *3,5 %* der Bevölkerung aktiv mitmachen. In Deutschland wären das rund 3 Millionen Menschen. Das ist eine Tendenz und kein Gesetz, aber eine gute Orientierung für „kritische Masse“.
+* Die 80er-Friedensbewegung hatte ein greifbares Ziel mit Termin, nämlich die Raketenstationierung 1983. Als der Bundestag sie beschlossen hatte, verlor die Bewegung an Kraft. Civilian braucht deshalb ein *wiederkehrendes Ritual* (jedes Jahr der 21. September) statt eines einmaligen Ziels, das man verlieren kann.
+
+=== Technik, realistisch
+
+* *GitHub Pages* trägt die Webseite: statisch, kostenlos und dauerhaft unter einer festen Adresse für den QR-Code.
+* Eine statische Seite kann aber *keine Unterschriften und Fotos speichern*. In Phase 0–1 laufen Fotos deshalb über einen Hashtag und werden von Hand gezählt. Ab Phase 2 kommt ein kleiner eigener Server dazu (etwa 5 € im Monat) mit Zähler und Karte, ohne Konten und ohne Tracking.
+* Am Text mitschreiben kann man ohne Konto in einem offenen Pad (CryptPad oder Etherpad). Gute Änderungen fließen als neue nummerierte Fassung ins Repo und in den nächsten Druck.
+
+== Schluss
+
+Der Ausgangstext endet mit: _„We're just civilians. But maybe we're all we've got. And maybe that's enough.“_
+
+Das Konzept übersetzt das so: *Civilian verlangt von niemandem, ein Held zu sein. Es verlangt nur, dass man nicht nichts tut.* Einen Schritt kann jeder gehen, und genau deshalb kann ihn auch jeder unterschreiben.
+
+== Quellen
+
+* Peace Pilgrim: https://en.wikipedia.org/wiki/Peace_Pilgrim[Wikipedia], https://www.peacepilgrim.org/ataglance[peacepilgrim.org]
+* Satish Kumar: https://en.wikipedia.org/wiki/Satish_Kumar[Wikipedia], https://www.dailygood.org/story/2075/satish-kumar-pilgrim-of-peace-livia-albeck-ripka/[DailyGood]
+* Great Peace March 1986: https://en.wikipedia.org/wiki/Great_Peace_March_for_Global_Nuclear_Disarmament[Wikipedia]
+* Women Cross DMZ: https://www.aljazeera.com/news/2015/5/24/women-peace-activists-cross-north-south-korea-border[Al Jazeera], https://www.npr.org/2015/05/24/409210116/activists-cross-the-dmz-in-controversial-peace-demonstration[NPR]
+* Civil March for Aleppo: https://www.euronews.com/2016/12/26/in-the-footsteps-of-refugees-berlin-aleppo-peace-march-begins[Euronews], https://www.voanews.com/a/peace-ctivists-set-syria-berlin-foot/3651213.html[VOA]
+* Jai Jagat 2020: https://en.wikipedia.org/wiki/Jai_Jagat_2020[Wikipedia], https://www.nonviolent-conflict.org/blog_post/the-long-haul-toward-justice-and-peace-a-march-from-delhi-to-geneva-underway/[ICNC]
+* Global March to Gaza: https://www.aljazeera.com/news/2025/6/10/explainer-what-is-the-global-march-for-gaza-all-about[Al Jazeera], https://www.newarab.com/news/will-global-march-gaza-succeed-where-madleen-ship-failed[The New Arab]
+* Walk for Peace 2025/26: https://www.npr.org/2026/02/11/nx-s1-5708853/these-monks-simple-walk-for-peace-captivated-millions-it-ends-this-week[NPR], https://www.pbs.org/newshour/nation/walk-for-peace-concludes-as-buddhist-monks-arrive-in-washington-after-15-week-trek[PBS]
+* Nonviolent Peaceforce: https://en.wikipedia.org/wiki/Nonviolent_Peaceforce[Wikipedia], https://nonviolentpeaceforce.org/unarmed_civilian_protection[nonviolentpeaceforce.org], https://www.usip.org/node/52966[USIP]
+* WIN/Gallup International 2015 („Würden Sie für Ihr Land kämpfen?“): https://www.gallup.com.pk/bb_old_site/Polls/180315.pdf[Gallup Pakistan (PDF)], https://brilliantmaps.com/europe-fight-war/[Brilliant Maps]
+* 3,5-%-Regel: https://www.hks.harvard.edu/centers/carr/publications/questions-answers-and-some-cautionary-updates-regarding-35-rule[Chenoweth, Harvard Kennedy School]
+* Garry Davis: https://en.wikipedia.org/wiki/Garry_Davis[Wikipedia], https://csmonitor.com/Commentary/editors-blog/2010/0705/Kooky-Ahead-of-his-time-The-man-who-would-be-stateless[Christian Science Monitor]
+* Friedensbewegung 1983: https://www.bpb.de/politik/hintergrund-aktuell/280816/nato-doppelbeschluss[bpb: NATO-Doppelbeschluss], https://germanhistorydocs.org/de/zwei-deutsche-staaten-1961-1989/1-millionen-menschen-demonstrieren-gegen-nato-doppelbeschluss-22-oktober-1983.pdf[germanhistorydocs]
+* Earth Hour: https://earthhour.org/about/milestones[earthhour.org – Milestones]

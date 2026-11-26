@@ -1,0 +1,254 @@
+= Civilian – Pilgerroute „Der Weg der Nahtstellen“
+:toc: left
+:toc-title: Inhalt
+:toclevels: 2
+:sectnums:
+:lang: de
+
+Stand: 25.11.2026. Die Lage ändert sich laufend. *Vor jeder Etappe neu prüfen*, mit `tools/reisewarnungen.py` (siehe <<Die Karte der verbrannten Erde>>) und mit den lokalen Partnern.
+
+Grundlage: link:konzept.adoc[konzept.adoc], link:civilian.adoc[civilian.adoc]
+
+== Lagebild: Krisenregionen im November 2026
+
+[cols="2,4,3",options="header"]
+|===
+| Region | Lage | Folge für die Route
+
+| *Ukraine – Russland*
+| Der Krieg geht weiter, eine allgemeine Waffenruhe gibt es nicht. Die dritte Gesprächsrunde in Abu Dhabi (ab 10.11.2026) brachte keinen Durchbruch, die Angriffe gehen auf beiden Seiten weiter.
+| Ausländische Teilnehmer gehen bis an die Grenze, nicht weiter. In der Ukraine tragen ukrainische Gruppen die Staffel selbst weiter, wenn sie wollen. Russische Teilnehmer machen nur anonym mit.
+
+| *Israel – Gaza*
+| Waffenruhe seit Oktober 2025. Sie ist brüchig, es gibt weiterhin Zwischenfälle. Rafah ist seit Februar 2026 nur eingeschränkt offen, für Personen, nicht für Waren.
+| Endpunkt der Hauptroute ist Jerusalem. Gaza wird nicht betreten. Menschen in Gaza tragen „von innen“.
+
+| *Iran*
+| Seit dem 28.02.2026 führen die USA und Israel Krieg gegen Iran, Ali Khamenei wurde dabei getötet. Es gibt eine Blockade, Angriffe auf Schiffe in der Straße von Hormus und keine Waffenruhe.
+| Keine Etappe in Iran. Teheran wird von innen getragen: Iranische Teilnehmer machen anonym mit, auch die Diaspora.
+
+| *Sudan*
+| Bürgerkrieg seit 2023. Die RSF nahmen im Oktober 2025 El Fasher ein, 2026 meldet die Armee Gewinne. Es gibt Massenflucht in den Tschad.
+| Kein Fußweg. Nur Begegnung an der Grenze zum Tschad über humanitäre Organisationen.
+
+| *Myanmar*
+| Bürgerkrieg mit über 1.200 bewaffneten Gruppen (ACLED). Die Wahl Ende 2025/Anfang 2026 gilt international als Scheinwahl.
+| Sternweg an der thailändischen Grenze (Mae Sot) mit Exil-Gemeinschaften.
+
+| *Ost-Kongo*
+| M23 kontrolliert Goma. Im November 2025 wurde in Doha ein Rahmenabkommen unterzeichnet, gekämpft wird trotzdem weiter. Die Grenze Goma–Rubavu war zuletzt offen (Stand September 2025).
+| Sternweg Goma ↔ Gisenyi, nur lokal getragen.
+
+| *Indien – Pakistan*
+| Nach dem Konflikt im Mai 2025 ist Attari–Wagah für den allgemeinen Verkehr geschlossen, und auch der Kartarpur-Korridor ist seit Mai 2025 zu.
+| Sternweg Amritsar ↔ Lahore mit Spiegelgruppen auf beiden Seiten der geschlossenen Grenze.
+
+| *Mexiko*
+| Bei ACLED auf Platz 2 der gefährlichsten Länder, wegen Kartellgewalt. Der Friendship Park an der Grenze zwischen Tijuana und San Diego ist geschlossen (Stand April 2026).
+| Sternweg mit Spiegelgruppen am Grenzzaun.
+
+| *Armenien – Aserbaidschan*
+| Der Friedenstext wurde im August 2025 paraphiert, ist aber nicht unterzeichnet. Die Grenzen Armenien–Aserbaidschan und Armenien–Türkei sind geschlossen.
+| Sternweg Kaukasus mit Spiegelgruppen an der geschlossenen Grenze.
+
+| *Zypern* (Lichtblick)
+| Es gibt neun Übergänge an der UN-Pufferzone. Am 09.11.2026 haben sich beide Seiten auf zwei neue Übergänge geeinigt, die ersten seit fast zehn Jahren.
+| Etappe der Hauptroute: Hier zeigt sich, dass Teilung sich öffnen lässt.
+
+| *Weitere*
+| Syrien, Jemen und das Rote Meer, Sahel, Haiti, Ecuador (ACLED-Watchlist 2026)
+| Vorerst keine Etappen. Teilnahme erfolgt von der eigenen Haustür aus.
+|===
+
+== Die Karte der verbrannten Erde
+
+Die Reise- und Sicherheitshinweise des Auswärtigen Amts sind eine Warnung für Reisende. Civilian liest sie *umgekehrt*: Jede Reisewarnung markiert ein Land, in dem Zivilisten leben, die nicht einfach abreisen können. Diese Karte zeigt, *für wen* Civilian geht.
+
+=== Stimmen einsammeln, nicht Körper
+
+Durch die verbrannte Erde zu ziehen und dort Zivilisten einzusammeln, wäre der stärkste Gedanke, aber auch der gefährlichste:
+
+* Menschenansammlungen in Kriegsgebieten werden zum Ziel.
+* Wer Menschen aus Kriegsgebieten herausholt, betreibt eine Evakuierung. Das ist Arbeit für humanitäre Profis.
+
+Civilian sammelt deshalb, was sicher wandern kann: *Stimmen*.
+
+* Menschen in Ländern mit 🔴 Reisewarnung schicken anonym ihren Satz, ihren Vornamen und ein Fußfoto von der eigenen Türschwelle.
+* Die Staffel trägt diese Stimmen an der nächstgelegenen offenen Grenze entlang, als Seiten im wandernden Buch.
+* An jeder Etappe, die an einer 🔴-Grenze endet, werden die Stimmen von drinnen laut vorgelesen.
+
+So geht Civilian *um* die verbrannte Erde herum und nimmt trotzdem alle mit, die darin leben.
+
+=== Automatischer Abgleich
+
+Das Skript `tools/reisewarnungen.py` ruft die OpenData-Schnittstelle des Auswärtigen Amts ab und ordnet jeder Etappe eine Ampel zu. Der Stand unten wurde mit diesem Aufruf erzeugt:
+
+----
+python3 -I tools/reisewarnungen.py
+----
+
+include::lage-aa.adoc[]
+
+== Grundsätze der Route
+
+* *Nahtstellen statt Frontlinien.* Die Route verbindet Orte, an denen sich Seiten berühren: geteilte Städte, Brücken und Grenzübergänge, an denen normale Menschen beider Seiten leben oder sich begegnen.
+* *Orte, an denen Teilung überwunden wurde.* Berlin, Görlitz, Mostar und Nikosia erzählen: Es geht.
+* *Niemand geht ins Feuer.* Etappen enden an geschlossenen Grenzen. Auf der anderen Seite geht eine *Spiegelgruppe* weiter, und beide winken sich am Schlagbaum zu.
+* *Der Pass wandert, nicht unbedingt der Mensch.* Staffelprinzip: Das Buch und die Pässe werden übergeben. Meere und Kriegsgebiete werden per Schiff oder Flug übersprungen.
+* *Jede Etappe hat lokale Gastgeber.* Ohne Einladung vor Ort gibt es keine Etappe.
+
+== Hauptroute: Berlin → Jerusalem
+
+Ungefähr 4.500 km zu Fuß, dazu Überfahrten. In Tagesetappen von etwa 25 km ergibt das rund 180 Gehtage. Mit Ruhetagen und Übergaben ist ein Jahr realistisch:
+
+* *Start:* 21.09.2027 (Weltfriedenstag), Berlin
+* *Ankunft:* 21.09.2028, Jerusalem
+
+[cols="1,3,4,2",options="header"]
+|===
+| Nr. | Abschnitt | Nahtstelle / Bedeutung | Begehbar?
+
+| 1
+| *Berlin*, Bernauer Straße (Gedenkstätte Berliner Mauer) → Görlitz, ca. 200 km
+| Start an der Mauer: Teilung kann überwunden werden.
+| ja
+
+| 2
+| *Görlitz ↔ Zgorzelec*, Altstadtbrücke → Kraków, ca. 400 km
+| Seit 1945 geteilte Stadt, heute verbunden. Über die Neiße hinweg, Deutsch und Polnisch.
+| ja
+
+| 3
+| *Oświęcim* (Auschwitz-Birkenau), Halt
+| Gedenkort für das „Nie wieder“. Stilles Innehalten, keine Kundgebung.
+| ja
+
+| 4
+| Kraków → *Przemyśl → Medyka*, polnisch-ukrainische Grenze, ca. 250 km
+| Ab 2022 Ankunftsort für Millionen Geflüchtete. Übergabe des Buches an eine ukrainische Gruppe.
+| ja, bis zur Grenze
+
+| 4a
+| _Innere Staffel Ukraine:_ Lwiw → Kyjiw
+| Nur durch ukrainische Teilnehmer und nur, wenn sie es wollen. Danach Rückgabe des Buches in Medyka.
+| nur lokal
+
+| 5
+| Medyka → Ungarn → *Sarajevo → Mostar*, Stari Most, ca. 1.500 km
+| Die Brücke wurde 1993 zerstört und 2004 wieder aufgebaut. Die Stadt ist bis heute zweigeteilt.
+| ja
+
+| 6
+| Mostar → Montenegro → *Mitrovica*, Ibar-Brücke, ca. 450 km
+| Serbisch-albanisch geteilte Stadt in Kosovo.
+| ja, Lage prüfen
+
+| 7
+| Mitrovica → Nordmazedonien → *Thessaloniki → Istanbul*, ca. 1.100 km
+| Der Bosporus als Brücke zwischen Europa und Asien.
+| ja
+
+| 8
+| Überfahrt → *Nikosia*, Ledra Street
+| Letzte geteilte Hauptstadt der EU. Zu Fuß von Süd nach Nord und zurück, mit griechisch- und türkisch-zyprischen Gastgebern.
+| ja
+
+| 9
+| Überfahrt → *Haifa → Jaffa → Jerusalem*, ca. 150 km
+| Haifa und Jaffa sind gemischte jüdisch-arabische Städte. Ziel ist die Altstadt von Jerusalem mit heiligen Stätten der drei abrahamitischen Religionen.
+| ja, Lage prüfen
+
+| 10
+| *Ankunft Jerusalem*, 21.09.2028
+| Übergabe des Buches an israelische *und* palästinensische Gastgeber gemeinsam
+| ja
+|===
+
+=== Praktische Hinweise zur Hauptroute
+
+* *Kosovo:* Serbien erkennt Einreisen über Kosovo nicht an. Die Route führt deshalb über Montenegro und Nordmazedonien und nach Kosovo nicht zurück nach Serbien.
+* *Zypern:* Man reist über die Republik Zypern ein (Larnaka oder Limassol). Eine Einreise über Häfen im Norden gilt für die Republik als illegale Einreise.
+* *Westjordanland:* Etappen dort nur mit palästinensischen Gastgebern und nach aktueller Lage.
+* *Mögliche Partner* in Israel/Palästina: _Combatants for Peace_ und _Parents Circle–Families Forum_. Sie veranstalten seit 21 Jahren gemeinsam einen israelisch-palästinensischen Gedenktag, zuletzt am 20.04.2026 in Tel Aviv. Die Teilnehmer wurden dort auf der Straße angefeindet, deshalb muss die Sicherheit mit den Partnern zusammen geplant werden.
+* *Zwischen den Etappen:* Die Route geht in Kneipen, Gemeindehäusern, Kirchen, Moscheen und Synagogen ein und aus. Wo die Gastgeber Stempel haben, werden die Pässe gestempelt.
+
+=== Die Orte aus dem Ausgangstext
+
+Der Ausgangstext nennt Jerusalem, Mekka, Gaza, die Ukraine und Teheran. Die Route nimmt alle fünf auf, aber ehrlich:
+
+[cols="1,4",options="header"]
+|===
+| Ort | Wie er vorkommt
+| *Jerusalem* | Ziel der Hauptroute
+| *Ukraine* | Bis Medyka von außen, im Land selbst durch die innere Staffel
+| *Gaza* | Wird nicht betreten. Menschen in Gaza machen von ihrer Tür aus mit.
+| *Teheran* | Keine Etappe, solange Krieg ist. Iranische Teilnehmer und die Diaspora tragen „von innen“.
+| *Mekka* | Darf nur von Muslimen betreten werden. Muslimische Teilnehmer können ihren Zivilistenpass bei Umra oder Hadsch mitnehmen. Der Hadsch zeigt jedes Jahr, dass fast zwei Millionen Menschen aus aller Welt friedlich gemeinsam pilgern können.
+|===
+
+== Sternwege
+
+Die Hauptroute ist nicht die einzige. *Sternwege* sind kurze Etappen an anderen Nahtstellen der Welt, getragen von Menschen vor Ort. Alle finden am 21. September statt, gleichzeitig mit der Hauptroute.
+
+[cols="2,3,3",options="header"]
+|===
+| Sternweg | Nahtstelle | Form
+
+| *Kaukasus*
+| Tiflis → armenisch-türkische Grenze (Gjumri / Ani)
+| Spiegelgruppen an der geschlossenen Grenze. Die Ruinen von Ani (Türkei) und das armenische Ufer liegen auf Sichtweite.
+
+| *Korea*
+| Imjingak / Paju, am Rand der DMZ
+| Anknüpfung an Women Cross DMZ (2015)
+
+| *Indien – Pakistan*
+| Amritsar ↔ Lahore, ca. 50 km
+| Spiegelgruppen an der geschlossenen Grenze bei Attari–Wagah
+
+| *Große Seen Afrikas*
+| Goma ↔ Gisenyi (Rubavu)
+| Fußgängerübergang zwischen zwei Städten, nur lokal getragen, Lage prüfen
+
+| *Sudan – Tschad*
+| Adré, Flüchtlingslager an der Grenze
+| Kein Gang, nur Begegnung über humanitäre Organisationen
+
+| *Myanmar – Thailand*
+| Mae Sot, Freundschaftsbrücke
+| Exil-Gemeinschaften aus Myanmar
+
+| *Amerika*
+| Tijuana ↔ San Diego, Friendship Park
+| Spiegelgruppen am geschlossenen Grenzzaun
+
+| *Überall*
+| Die eigene Haustür
+| Kreidewort, Fußfoto, Zivilistenpass
+|===
+
+== Zeitplan im Zusammenhang
+
+[cols="1,3",options="header"]
+|===
+| Wann | Was
+| bis Sep 2027 | Umsetzungsplan Phase 0–3 (siehe link:konzept.adoc[Konzept]). Gastgeber entlang der Hauptroute suchen, beginnend mit Etappe 1–2 in Deutschland und Polen.
+| 21.09.2027 | Start der Hauptroute in Berlin, erste Sternwege, weltweiter „Schritt vor die Tür“
+| Okt 2027 – Sep 2028 | Staffel Berlin → Jerusalem. Jede Etappe wird online dokumentiert, und das Buch wird dicker.
+| 21.09.2028 | Ankunft in Jerusalem, Sternwege weltweit, zweiter „Schritt vor die Tür“
+|===
+
+== Quellen
+
+* ACLED Conflict Index und Watchlist 2026: https://acleddata.com/conflict-index-2026-watchlist[acleddata.com]
+* Ukraine, Gespräche November 2026: https://www.semafor.com/article/11/11/2026/russia-ukraine-ceasefire-negotiations-stall[Semafor], https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu[Euronews]
+* Gaza und Rafah: https://www.pbs.org/newshour/world/gazas-rafah-border-crossing-has-reopened-but-few-are-allowed-through[PBS], https://www.clevelandjewishnews.com/jns/cogat-rafah-crossing-open-for-limited-travel-not-goods/article_4534612d-ea93-521c-be64-9bdd4a87f6d8.html[JNS]
+* Iran-Krieg 2026: https://www.cbsnews.com/us-iran-tensions/[CBS News]
+* Sudan: https://www.aljazeera.com/amp/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf[Al Jazeera, 04.10.2026]
+* Myanmar: https://www.swp-berlin.org/10.18449/2026C09/[SWP], https://eastasiaforum.org/2026/02/17/myanmar-without-a-path-to-recovery/[East Asia Forum]
+* Ost-Kongo: https://www.aljazeera.com/news/2025/11/15/drc-rwanda-backed-m23-sign-framework-deal-for-peace-after-talks-in-qatar[Al Jazeera], https://www.africanews.com/2025/09/22/eastern-congo-afcm23-authorities-extend-opening-hours-at-goma-rubavu-border/[Africanews]
+* Indien – Pakistan: https://www.tribuneindia.com/news/punjab/continued-closure-overshadows-kartarpur-corridors-6th-anniversary[Tribune India], https://thefridaytimes.com/10-Oct-2026/corridor-peace-closed-sides[The Friday Times]
+* Friendship Park: https://timesofsandiego.com/opinion/2026/04/11/park-prison-border/[Times of San Diego]
+* Armenien – Aserbaidschan: https://eurasianet.org/assessing-armenian-azerbaijani-peace-deal-one-year-later[Eurasianet], https://carnegieendowment.org/research/2026/03/rewiring-the-south-caucasus-tripp-and-the-new-geopolitics-of-connectivity[Carnegie]
+* Zypern, neue Übergänge: https://www.ajc.com/news/2026/11/ethnically-split-cyprus-rival-leaders-agree-to-2-more-crossings-across-islands-dividing-line/[AP via AJC]
+* Gemeinsamer Gedenktag Israel/Palästina 2026: https://www.972mag.com/joint-memorial-day-2026/[+972 Magazine]

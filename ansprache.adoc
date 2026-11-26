@@ -1,0 +1,107 @@
+= Civilian – Menschen gewinnen
+:toc: left
+:toc-title: Inhalt
+:sectnums:
+:lang: de
+
+Stand: 25.11.2026
+
+== Grundsatz: Schneeball statt Spam
+
+Massenhaft unverlangte Nachrichten an Fremde schaden Civilian:
+
+* *Rechtlich:* Wer Adressen sammelt und ungefragt anschreibt, verstößt gegen die DSGVO. Unverlangte Massen-E-Mails können außerdem Unterlassungsansprüche auslösen, auch bei ideellen Zwecken.
+* *Technisch:* Absender und Domain landen auf Blocklisten. Danach kommt auch keine erwünschte Nachricht mehr an.
+* *Inhaltlich:* Eine Bewegung, die sagt „nichts gegen jemanden“, darf nicht damit anfangen, Menschen gegen ihren Willen zu bedrängen. Spam wirkt wie Betrug, und Glaubwürdigkeit ist das einzige Kapital, das Civilian hat.
+
+Die Reichweite kommt stattdessen aus *Vertrauen*: Jeder spricht die Menschen an, die er kennt, und jeder Angesprochene tut dasselbe.
+
+=== Die Rechnung
+
+Jeder gewinnt *drei* Menschen, die wiederum jeweils drei gewinnen:
+
+[cols="1,1",options="header"]
+|===
+| Runde | Menschen
+| 1 | 3
+| 5 | 243
+| 10 | 59.049
+| 15 | über 14 Millionen
+|===
+
+Das klappt nie perfekt, die meisten Ketten reißen ab. Aber es zeigt, warum *persönliche* Ansprache mit Weitergabe stärker ist als jeder Massenversand.
+
+== Wen ansprechen, und wie
+
+[cols="2,3,2",options="header"]
+|===
+| Wer | Warum | Wie
+| Freunde, Familie, Nachbarn | Vertrauen ist schon da | Persönlich, Zettel in die Hand
+| Kneipen, Cafés | Mögliche *offene Türen* | Persönlich vorbeigehen, Vorlage A
+| Kirchen, Moscheen, Synagogen, Tempel, Gemeindehäuser | Gastfreundschaft ist ihr Kern | Persönlicher Brief, Vorlage B
+| Friedensgruppen, Vereine, Hochschulgruppen | Haben schon Netzwerke | Eine E-Mail an die offizielle Kontaktadresse, Vorlage C
+| Lokalpresse, Lokalradio | Reichweite | Kurze Pressemitteilung mit Bild, Vorlage D
+| Organisationen entlang der Route | Gastgeber für Etappen | Persönlich und einzeln, Vorlage C
+|===
+
+Einzelne, persönlich formulierte Anfragen an öffentlich angegebene Kontaktadressen von Organisationen sind kein Spam. Entscheidend ist: *einzeln, passend und mit der Möglichkeit, Nein zu sagen*.
+
+== Vorlagen
+
+=== A – Kneipe / Café (mündlich oder als Zettel)
+
+____
+Hallo, ich bin [Vorname] aus der Nachbarschaft. Ich verteile diesen Zettel: Civilian. Es geht um Menschen, die einfach keinen Krieg wollen, ohne Partei und ohne Fahne. Wir suchen „offene Türen“, also Orte, an denen jemand, der für Civilian unterwegs ist, ein Glas Wasser bekommt und seinen Zivilistenpass stempeln lassen kann. Das kostet euch nichts und verpflichtet zu nichts. Hättet ihr Lust?
+____
+
+=== B – Gemeinde (Brief)
+
+____
+Liebe [Gemeinde],
+
+ich schreibe Ihnen als Privatperson aus [Stadt]. Mit Civilian laden wir Menschen ein, sich als Zivilisten zu erkennen zu geben: Menschen, die keinen Krieg wollen und den Menschen auf der anderen Seite glauben, dass sie auch keinen wollen. Es gibt keine Parteinahme und keine politischen Forderungen.
+
+Am 21. September, dem Weltfriedenstag, gehen Menschen weltweit vor ihre Tür. Wir suchen Orte, die ihre Türen öffnen, für ein Gespräch, ein Glas Wasser oder einen Stempel im Zivilistenpass.
+
+Den Text finden Sie unter [URL]. Er ist ein offener Entwurf, und Ihre Ergänzungen sind willkommen.
+
+Mit freundlichen Grüßen
+[Name]
+____
+
+=== C – Organisation (E-Mail, einzeln)
+
+____
+Betreff: Civilian – Anfrage als Gastgeber / Partner
+
+Hallo [Name der Organisation],
+
+ich bin [Vorname] aus [Stadt] und stoße eine kleine, parteiunabhängige Initiative an: Civilian. Ihr Kern ist eine Charta aus sieben Sätzen, die fast jeder unterschreiben kann, dazu ein Zivilistenpass zum Weitergeben und eine Staffel-Pilgerroute von Berlin nach Jerusalem (Start 21.09.2027).
+
+Wir wollen nichts ersetzen, was Sie tun, sondern Menschen zu Ihnen hinführen. Wäre es für Sie denkbar, [eine Etappe zu empfangen / den Aufruf zu teilen / uns zu beraten]?
+
+Mehr unter [URL]. Wenn das nicht zu Ihnen passt, ist das völlig in Ordnung. Ich melde mich dann nicht wieder.
+
+Herzliche Grüße
+[Vorname]
+____
+
+=== D – Lokalpresse (Kurzmitteilung)
+
+____
+*„Wir sind nur Zivilisten“: Ein Zettel geht von Hand zu Hand*
+
+[Stadt]. Ein Flugblatt, das jeder weiterschreiben darf: Mit „Civilian“ ruft [Vorname] aus [Stadt] Menschen dazu auf, sich als Zivilisten zu erkennen zu geben, ohne Partei, Religion oder Fahne. Wer mitmacht, schreibt am 21. September das Wort „Zivilist“ mit Kreide vor seine Haustür. Kneipen und Gemeinden können sich als „offene Tür“ eintragen. Der Text liegt online als offener Entwurf: [URL].
+____
+
+=== E – Zum Weiterleiten an eigene Kontakte
+
+____
+Ich hab da was unterschrieben, das du wahrscheinlich auch unterschreiben würdest: „Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.“ Das ist alles. Wenn du magst: [URL]. Und wenn du's gut findest, schick es an drei Leute, die du kennst.
+____
+
+== Online, aber mit Zustimmung
+
+* *Ein Kanal, den man selbst abonniert:* zum Beispiel ein Signal-Kanal oder ein Newsletter mit Bestätigungs-E-Mail (Double Opt-in). Wer sich einträgt, bekommt Neuigkeiten. Wer sich austrägt, bekommt nichts mehr.
+* *Teilen statt Senden:* Fußfotos und Kreidewörter unter einem gemeinsamen Hashtag verbreiten sich über die eigenen Kontakte der Teilnehmer.
+* *Kein Kauf und kein Sammeln von Adresslisten.*
