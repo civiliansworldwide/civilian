@@ -6,7 +6,7 @@ Webseite: https://civiliansworldwide.github.io/civilian/[civiliansworldwide.gith
 
 * link:civilian.adoc[civilian.adoc]: der Ausgangstext („deep night thought“)
 * link:konzept.adoc[konzept.adoc]: das ausgearbeitete Konzept mit Charta, Recherche zu ähnlichen Ansätzen, Modell und Risiken
-* link:route.adoc[route.adoc]: Lagebild der Krisenregionen (Stand 25.11.2026) und Pilgerroute Berlin → Jerusalem mit Sternwegen
+* link:route.adoc[route.adoc]: Lagebild der Krisenregionen und Pilgerwege: viele gleichwertige Wege, ein gemeinsamer Tag (21. September)
 * link:ansprache.adoc[ansprache.adoc]: wie man Menschen gewinnt (Schneeball statt Spam), mit Vorlagen
 * link:pamphlet.adoc[pamphlet.adoc]: Text des Flugblatts (Fassung 0.1)
 * `druck/pamphlet-a4.html`: Druckvorlage, A4 quer mit 2× A5 zum Durchschneiden
