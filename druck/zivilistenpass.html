@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zivilistenpass – Faltvorlage (A4 quer → 8 Seiten A7)</title>
+<!--
+  DRUCK: Browser → Drucken → A4 Querformat, Ränder "Keine", Skalierung 100 %.
+  FALTEN (Mini-Zine, ein Schnitt):
+    1. Blatt quer hinlegen, einmal längs in der Mitte falten (obere Hälfte nach hinten).
+    2. Wieder öffnen, quer in der Mitte falten, dann die Hälften noch einmal halbieren
+       → 8 Felder.
+    3. Quer gefaltet (lange Kante oben) in der Mitte entlang der Längsfalte schneiden,
+       nur zwischen den beiden mittleren Feldern (gestrichelte Linie).
+    4. Längs falten, die Enden zusammenschieben, bis sich der Schlitz zu einem Kreuz
+       öffnet, und zum Heft umlegen. Seite 1 (ZIVILISTENPASS) liegt außen.
+  Anordnung: obere Reihe steht auf dem Kopf (5 4 3 2), untere Reihe: 6 7 8 1.
+
+  Die Übersetzungen von Satz 1 (Seite 7) sind Entwürfe: vor dem ersten großen Druck
+  von Muttersprachlern prüfen lassen.
+-->
+<style>
+  @page { size: A4 landscape; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: "DejaVu Serif", Georgia, serif; color: #111;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  .sheet {
+    width: 297mm; height: 210mm; position: relative;
+    display: grid; grid-template-columns: repeat(4, 74.25mm); grid-template-rows: repeat(2, 105mm);
+  }
+  .p { padding: 6mm 6mm 5mm; display: flex; flex-direction: column; overflow: hidden; position: relative; }
+  .top { transform: rotate(180deg); }
+  /* Schnittlinie: Mitte, nur zwischen Spalte 2 und 3 */
+  .cut {
+    position: absolute; top: 105mm; left: 74.25mm; width: 148.5mm; height: 0;
+    border-top: .25mm dashed #999;
+  }
+  .cut::before { content: "✂"; position: absolute; left: -3.5mm; top: -2.6mm; font-size: 8pt; color: #999; }
+
+  .sans { font-family: "DejaVu Sans", sans-serif; }
+  .label { font: 700 6pt "DejaVu Sans", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: #444; }
+  h2 { font: 700 7pt "DejaVu Sans", sans-serif; letter-spacing: .1em; text-transform: uppercase;
+       margin: 0 0 2.5mm; padding-bottom: .8mm; border-bottom: .3mm solid #111; }
+  p, li { font-size: 7.6pt; line-height: 1.34; margin: 0 0 1.4mm; }
+  ol { margin: 0; padding-left: 4mm; }
+  li { margin-bottom: 1.6mm; }
+  ol li::marker { font-weight: 700; }
+  .pnum { position: absolute; bottom: 2.5mm; left: 0; right: 0; text-align: center; font: 5.5pt "DejaVu Sans", sans-serif; color: #999; }
+
+  /* Seite 1: Umschlag */
+  .cover { border: .5mm solid #111; margin: 4mm; padding: 5mm 4mm; text-align: center; }
+  .cover .title { font: 700 12.5pt "DejaVu Sans", sans-serif; letter-spacing: .12em; margin-top: 2mm; }
+  .cover .en { font: 7pt "DejaVu Sans", sans-serif; letter-spacing: .25em; color: #444; margin-top: 1mm; }
+  .handbox {
+    margin: 7mm auto 0; width: 100%; height: 26mm; border: .3mm dashed #777;
+    display: flex; align-items: flex-end; justify-content: center; padding-bottom: 1.2mm;
+  }
+  .handbox span { font: italic 6pt "DejaVu Sans", sans-serif; color: #777; }
+  .cover .note { margin-top: auto; font: 5.6pt "DejaVu Sans", sans-serif; color: #444; line-height: 1.35; }
+
+  /* Felder zum Ausfüllen */
+  .field { margin-bottom: 3.2mm; }
+  .field .line { border-bottom: .25mm solid #111; height: 5.5mm; }
+  .lines .line { border-bottom: .2mm solid #999; height: 5.2mm; }
+  .hint { font: italic 6pt "DejaVu Sans", sans-serif; color: #555; }
+
+  /* Stempelfelder */
+  .stamps { display: grid; grid-template-columns: 1fr 1fr; gap: 2.2mm; flex: 1; }
+  .stamp { border: .25mm solid #999; border-radius: 1.5mm; position: relative; }
+  .stamp span { position: absolute; bottom: .8mm; left: 1.2mm; font: 5pt "DejaVu Sans", sans-serif; color: #999; }
+
+  /* Seite 7: Sprachen */
+  .lang p { font-size: 7pt; margin-bottom: 1.6mm; }
+  .lang b { font: 700 5.4pt "DejaVu Sans", sans-serif; color: #666; letter-spacing: .06em; display: block; }
+  .rtl { direction: rtl; text-align: right; }
+  [lang=ar], [lang=fa] { font-family: "Noto Naskh Arabic", "DejaVu Sans", serif; font-size: 7.4pt; line-height: 1.5; }
+  [lang=he] { font-family: "DejaVu Sans", "FreeSerif", sans-serif; }
+  .rtl b { letter-spacing: 0; font-family: inherit; font-size: 6pt; }
+
+  /* Seite 8: Rückseite */
+  .back { text-align: center; }
+  .back img { width: 30mm; height: 30mm; margin: 2mm auto 1.5mm; display: block; }
+  .url { font: 6.2pt "DejaVu Sans Mono", monospace; word-break: break-all; }
+  .tag { font: 700 9pt "DejaVu Sans", sans-serif; margin: 2.5mm 0; }
+  .warn { border: .3mm solid #111; padding: 1.8mm; font: 700 6.4pt "DejaVu Sans", sans-serif; line-height: 1.35; margin-top: auto; }
+  .impressum { font: 5pt "DejaVu Sans", sans-serif; color: #777; margin-top: 1.5mm; }
+
+  @media screen {
+    body { background: #888; padding: 10mm; }
+    .sheet { background: #fff; box-shadow: 0 2mm 8mm rgba(0,0,0,.4); margin: 0 auto; }
+    .p { outline: .2mm dotted #ddd; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <!-- OBERE REIHE (auf dem Kopf): 5 4 3 2 -->
+
+  <section class="p top">
+    <h2>Offene Türen</h2>
+    <p class="hint">Kneipe, Café, Gemeindehaus, Küche: Wer dir unterwegs Wasser, einen Stuhl oder ein Ohr gegeben hat, stempelt oder unterschreibt hier.</p>
+    <div class="stamps">
+      <div class="stamp"><span>Ort · Datum</span></div><div class="stamp"><span>Ort · Datum</span></div>
+      <div class="stamp"><span>Ort · Datum</span></div><div class="stamp"><span>Ort · Datum</span></div>
+    </div>
+    <div class="pnum">5</div>
+  </section>
+
+  <section class="p top">
+    <h2>… und ich gehe los</h2>
+    <ol start="5">
+      <li>Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.</li>
+      <li>Ich gehe einen Schritt, so groß oder so klein, wie ich kann.</li>
+      <li>Ich rette nicht allein die Welt. Aber zusammen müssen wir nicht nichts tun.</li>
+    </ol>
+    <div class="field" style="margin-top:auto">
+      <div class="line"></div>
+      <div class="hint">Unterschrift, Kürzel oder ein Zeichen</div>
+    </div>
+    <div class="pnum">4</div>
+  </section>
+
+  <section class="p top">
+    <h2>Was ich glaube</h2>
+    <ol>
+      <li><strong>Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.</strong></li>
+      <li>Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen.</li>
+      <li>Zivilisten, egal auf welcher Seite, dürfen niemals Ziel von Gewalt sein.</li>
+      <li>Ich wähle keine Seite gegen Menschen. Ich wähle die Seite des Lebens.</li>
+    </ol>
+    <div class="pnum">3</div>
+  </section>
+
+  <section class="p top">
+    <h2>Inhaber · Holder</h2>
+    <div class="field"><div class="line"></div><div class="hint">Vorname (nur der Vorname)</div></div>
+    <div class="field"><div class="line"></div><div class="hint">Stadt (freiwillig)</div></div>
+    <p style="margin-top:1mm"><strong>Ich will keinen Krieg, weil …</strong></p>
+    <div class="lines"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+    <p class="hint" style="margin-top:auto">Kein Foto. Kein Nachname. Dein Wort reicht.</p>
+    <div class="pnum">2</div>
+  </section>
+
+  <!-- UNTERE REIHE: 6 7 8 1 -->
+
+  <section class="p">
+    <h2>Etappen</h2>
+    <p class="hint">Jede Strecke zählt, auch 100 Meter vor der eigenen Tür.</p>
+    <div class="lines">
+      <div class="line"></div><div class="line"></div><div class="line"></div>
+      <div class="line"></div><div class="line"></div><div class="line"></div>
+    </div>
+    <p class="hint">von … nach … · Datum</p>
+    <div class="stamps" style="margin-top:1.5mm">
+      <div class="stamp"><span>Ort · Datum</span></div><div class="stamp"><span>Ort · Datum</span></div>
+    </div>
+    <div class="pnum">6</div>
+  </section>
+
+  <section class="p lang">
+    <h2>Satz 1</h2>
+    <p><b>ENGLISH</b>I don't want war. And I believe the people on the other side don't want it either.</p>
+    <p><b>РУССКИЙ</b>Я не хочу войны. И я верю, что люди по ту сторону тоже её не хотят.</p>
+    <p><b>УКРАЇНСЬКА</b>Я не хочу війни. І я вірю, що люди по той бік теж її не хочуть.</p>
+    <p class="rtl" lang="he"><b>עברית</b>אני לא רוצה מלחמה. ואני מאמין/ה שגם האנשים בצד השני לא רוצים בה.</p>
+    <p class="rtl" lang="ar"><b>العربية</b>لا أريد الحرب. وأصدّق أن الناس على الجانب الآخر لا يريدونها أيضًا.</p>
+    <p class="rtl" lang="fa"><b>فارسی</b>من جنگ نمی‌خواهم. و باور دارم که مردمِ آن سو هم جنگ نمی‌خواهند.</p>
+    <div class="pnum">7</div>
+  </section>
+
+  <section class="p back">
+    <div class="label">Schreib weiter</div>
+    <img src="qr.svg" alt="QR-Code">
+    <div class="url"></div>
+    <div class="tag">#IchBinZivilist</div>
+    <p class="hint">Foto deiner Füße neben dem Kreidewort ZIVILIST, nur mit Vorname und Stadt. Kein Gesicht nötig.</p>
+    <div class="warn">Kein amtliches Dokument.<br>Behalte deinen echten Pass.</div>
+    <div class="impressum">Keine Partei. Keine Religion. Kein Geld.<br>V.i.S.d.P.: [Name, Anschrift eintragen]</div>
+  </section>
+
+  <section class="p">
+    <div class="cover" style="flex:1; display:flex; flex-direction:column;">
+      <div class="label">Zivilisten aller Seiten</div>
+      <div class="title">ZIVILISTEN&shy;PASS</div>
+      <div class="en">CIVILIAN PASS</div>
+      <div class="handbox"><span>Schreib hier selbst: ZIVILIST</span></div>
+      <div class="note">Gültig unter Menschen,<br>nicht vor Behörden.</div>
+    </div>
+  </section>
+
+  <div class="cut"></div>
+</div>
+
+<script>
+  // Gleiche URL wie im Flugblatt (druck/url.txt, wird von qr.sh gesetzt).
+  const URL_TEXT = "https://example.org/civilian";
+  document.querySelectorAll(".url").forEach(e => e.textContent = URL_TEXT);
+</script>
+</body>
+</html>
