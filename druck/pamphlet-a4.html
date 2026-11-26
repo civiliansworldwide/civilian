@@ -20,19 +20,19 @@
   .sheet { width: 297mm; height: 210mm; display: flex; }
   .a5 {
     width: 148.5mm; height: 210mm;
-    padding: 11mm 12mm 9mm;
+    padding: 9mm 11mm 7mm;
     display: flex; flex-direction: column;
     position: relative;
   }
   .a5 + .a5 { border-left: 0.2mm dashed #bbb; }
   .meta { font: 7pt "DejaVu Sans", sans-serif; color: #666; letter-spacing: .03em; text-transform: uppercase; }
-  h1 { font-size: 25pt; line-height: 1.05; margin: 2mm 0 0; font-weight: 700; }
+  h1 { font-size: 23pt; line-height: 1.05; margin: 2mm 0 0; font-weight: 700; }
   h1 + .sub { font-size: 13pt; font-style: italic; margin: 1mm 0 4mm; }
   h2 {
     font: 700 8.5pt "DejaVu Sans", sans-serif; text-transform: uppercase; letter-spacing: .08em;
-    margin: 4.5mm 0 1.8mm; padding-bottom: .6mm; border-bottom: .3mm solid #111;
+    margin: 3.2mm 0 1.5mm; padding-bottom: .6mm; border-bottom: .3mm solid #111;
   }
-  p, li { font-size: 10.3pt; line-height: 1.36; margin: 0 0 1.8mm; }
+  p, li { font-size: 9.9pt; line-height: 1.33; margin: 0 0 1.4mm; }
   ol, ul { margin: 0; padding-left: 4.5mm; }
   li { margin-bottom: .8mm; }
   ol li::marker { font-weight: 700; }
@@ -40,10 +40,11 @@
     margin-top: auto; display: flex; gap: 4mm; align-items: flex-end;
     border-top: .3mm solid #111; padding-top: 3mm;
   }
-  .foot img { width: 30mm; height: 30mm; flex: none; }
+  .foot img { width: 26mm; height: 26mm; flex: none; }
   .foot .cta p { margin-bottom: 1mm; }
   .foot .cta strong { font-size: 10.5pt; }
   .url { font: 8pt "DejaVu Sans Mono", monospace; word-break: break-all; }
+  .notsay { font-size: 8.6pt; font-style: italic; margin-top: 1.5mm; color: #333; }
   .claim { font-size: 8pt; font-style: italic; color: #333; }
   .impressum { font: 6pt "DejaVu Sans", sans-serif; color: #777; margin-top: 1.5mm; }
   @media screen {
@@ -57,30 +58,31 @@
 
 <template id="zettel">
   <section class="a5">
-    <div class="meta">Fassung 0.1 · 25.11.2026 · Entwurf zum Weiterschreiben</div>
+    <div class="meta">Fassung 0.2 · 26.11.2026 · Entwurf zum Weiterschreiben</div>
     <h1>Wir sind nur Zivilisten.</h1>
     <div class="sub">Und vielleicht reicht das.</div>
 
-    <p>Kriege, Klimakrise, Angst. Manchmal fühlt man sich wie ein Niemand, der zuschaut, wie alles zerbricht.</p>
-    <p>Aber wir Niemande sind die meisten. Wir tragen keine Uniform. Wir haben keine Seite gegen andere Menschen. Gerade deshalb können wir etwas, was keine Regierung und keine Armee kann: <strong>gemeinsam losgehen, ohne Fahne und ohne Feind.</strong></p>
+    <p>Ganz gleich, wo du lebst, woran du glaubst und welches Land du liebst: Du willst, dass deine Kinder ohne Angst aufwachsen. Die Menschen auf der anderen Seite wollen das auch.</p>
+    <p><strong>Wir sind Zivilisten. Wir sind die Mehrheit der Menschheit. Ohne uns findet kein Krieg statt, und ohne uns gibt es keinen Frieden.</strong></p>
 
     <h2>Was wir glauben</h2>
     <ol>
       <li>Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.</li>
-      <li>Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen.</li>
+      <li>Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen, auf jeder Seite.</li>
       <li>Zivilisten, egal auf welcher Seite, dürfen niemals Ziel von Gewalt sein.</li>
-      <li>Ich wähle keine Seite gegen Menschen. Ich wähle die Seite des Lebens.</li>
+      <li>Ich stelle mich gegen keinen Menschen. Ich stelle mich auf die Seite des Lebens.</li>
       <li>Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.</li>
-      <li>Ich gehe einen Schritt, so groß oder so klein, wie ich kann.</li>
-      <li>Ich rette nicht allein die Welt. Aber zusammen müssen wir nicht nichts tun.</li>
+      <li>Ich gehe einen Schritt, so groß oder so klein, wie ich kann, und so sicher, wie ich kann.</li>
+      <li>Ich kann die Welt nicht allein retten. Aber gemeinsam können wir etwas tun.</li>
     </ol>
+    <p class="notsay">Wir sagen nicht, wer recht hat, und nicht, dass alle gleich schuld sind. Wir verlangen von niemandem, sich nicht zu wehren.</p>
 
     <h2>Was du tun kannst</h2>
     <ul>
-      <li><strong>Unterschreiben:</strong> online, mit 30 Sekunden Aufwand.</li>
-      <li><strong>Vor die Tür gehen:</strong> am 21. September, dem Weltfriedenstag. 100 Meter reichen.</li>
-      <li><strong>Ein Stück weitertragen:</strong> von deiner Stadt bis in die nächste.</li>
-      <li><strong>Eine Tür öffnen:</strong> Kneipe, Café, Gemeindehaus oder Küche. Ein Glas Wasser für die, die vorbeikommen.</li>
+      <li><strong>Still:</strong> ein Glas Wasser ins Fenster. Oder das Wort ZIVILIST als Zettel in der Tasche.</li>
+      <li><strong>Sichtbar:</strong> das Wort ins Fenster oder mit Kreide vor die Tür. Nur, wo es sicher ist.</li>
+      <li><strong>Zeig es:</strong> ein Foto vom Wort mit #IchBinZivilist. Ohne Gesicht, ohne Ort.</li>
+      <li><strong>Sei eine offene Tür:</strong> Teestube, Café, Küche, Gemeindehaus oder Gebetshaus. Ein Glas Wasser für die, die vorbeikommen.</li>
     </ul>
 
     <div class="foot">
@@ -89,7 +91,7 @@
         <p><strong>Dieser Text gehört nicht mir.</strong></p>
         <p>Scann den Code und <strong>schreib weiter</strong>: Streich, was dich stört, und ergänze, was fehlt. Die nächste gedruckte Fassung enthält deine Worte. Und dann gib diesen Zettel weiter.</p>
         <p class="url"></p>
-        <p class="claim">Keine Partei. Keine Religion. Kein Geld. Nur Menschen.</p>
+        <p class="claim">Für Menschen jeden Glaubens und ohne Glauben, mit und ohne Uniform. Keine Partei, kein Geld, kein Feind.</p>
       </div>
     </div>
     <div class="impressum">V.i.S.d.P.: [Name, Anschrift eintragen]</div>

@@ -5,7 +5,7 @@
 :sectnums:
 :lang: de
 
-Stand: 25.11.2026
+Stand: 26.11.2026 (überarbeitet nach einer kritischen Durchsicht)
 
 Grundlage: link:civilian.adoc[civilian.adoc] („deep night thought“)
 
@@ -21,7 +21,9 @@ Damit die Mehrheit der Menschen zustimmen kann, ohne lange nachzudenken, gilt ei
 ====
 *Civilian fordert nichts, was einen Menschen zum Gegner eines anderen macht.*
 
-Es gibt keine Schuldzuweisung, keine Partei, keine Religion, keinen Staat als Feindbild und keine Einzelforderung an eine bestimmte Regierung. Alles, was Lager bildet, bleibt draußen.
+Es gibt keine Schuldzuweisung, keine Partei, keinen Staat als Feindbild und keine Einzelforderung an eine bestimmte Regierung. Keine Religion und keine Nation wird *gegen* andere gestellt. Alles, was Lager bildet, bleibt draußen.
+
+*Aber niemand muss etwas ablegen:* Civilian ist für Menschen jeden Glaubens und ohne Glauben, jeder Herkunft, mit und ohne Uniform. Wer sein Land liebt, darf es weiter lieben. Soldaten waren Zivilisten und werden es wieder sein, ihre Familien sind es schon jetzt.
 ====
 
 Was übrig bleibt, ist der kleinste gemeinsame Nenner der Menschheit. Er ist kleiner, als man denkt, aber er ist riesig in seiner Reichweite.
@@ -32,23 +34,27 @@ Sieben Sätze, kurz genug für eine Postkarte.
 
 [.lead]
 . Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.
-. Jedes Kind auf dieser Erde hat das Recht, ohne Angst vor Bomben aufzuwachsen.
-. Zivilisten, egal welcher Seite, dürfen niemals Ziel von Gewalt sein.
-. Ich wähle keine Seite gegen Menschen, ich wähle die Seite des Lebens.
+. Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen, auf jeder Seite.
+. Zivilisten, egal auf welcher Seite, dürfen niemals Ziel von Gewalt sein.
+. Ich stelle mich gegen keinen Menschen. Ich stelle mich auf die Seite des Lebens.
 . Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.
-. Ich gehe einen Schritt, so groß oder so klein, wie ich kann.
-. Ich glaube nicht, dass ich allein die Welt rette. Aber ich glaube, dass wir zusammen nicht nichts tun müssen.
+. Ich gehe einen Schritt, so groß oder so klein, wie ich kann, und so sicher, wie ich kann.
+. Ich kann die Welt nicht allein retten. Aber gemeinsam können wir etwas tun.
+
+_Wir sagen nicht, wer recht hat, und nicht, dass alle gleich schuld sind. Wir verlangen von niemandem, sich nicht zu wehren. Wir sagen nur: Die Kinder auf beiden Seiten haben dieselbe Angst, und die Menschen ohne Waffen haben diesen Krieg nicht gewollt._
+
+*Dazu der Satz der Mehrheit:* Wir sind Zivilisten. Wir sind die Mehrheit der Menschheit. Ohne uns findet kein Krieg statt, und ohne uns gibt es keinen Frieden.
 
 .English version
 [%collapsible]
 ====
 . I don't want war. And I believe the people on the other side don't want it either.
-. Every child on this earth has the right to grow up without fear of bombs.
+. Every child has the right to grow up without fear of bombs, on every side.
 . Civilians, on any side, must never be targets of violence.
-. I take no side against people. I take the side of life.
+. I stand against no human being. I stand on the side of life.
 . I open my door, my table and my ear to those on the road.
-. I take a step, as big or as small as I can.
-. I don't believe I alone can save the world. But I believe that together we don't have to do nothing.
+. I take a step, as big or as small as I can, and as safe as I can.
+. I cannot save the world alone. But together we can do something.
 ====
 
 === Warum diese Sätze konsensfähig sind
@@ -156,7 +162,7 @@ Der Ausgangstext will „durch Gaza, die Ukraine, Teheran“ gehen. Für die Meh
 
 Der schönste Teil des Ausgangstextes: _„if there's still any bars open along the way, throw open the doors.“_
 
-* Kneipen, Cafés, Gemeindehäuser, Moscheen, Kirchen, Tempel und Privatleute können sich als *offene Tür* eintragen: ein Glas Wasser, ein Teller Suppe, ein Platz zum Schlafen.
+* Teestuben, Cafés, Kneipen, Gemeindehäuser, Moscheen, Kirchen, Synagogen, Tempel und Privatleute können sich als *offene Tür* eintragen: ein Glas Wasser, ein Teller Suppe, ein Platz zum Schlafen.
 * Nach dem Vorbild von Satish Kumar: *Wer geht, trägt kein Geld bei sich.* Die Gastgeber sind genauso Teil der Bewegung wie die Gehenden.
 * Es geht nicht um Askese. Lachen, Musik und Essen gehören dazu. Der Marsch zeigt, wofür man ihn geht.
 
@@ -166,7 +172,15 @@ Unterschreiben allein reicht nicht. Civilian wird erst wirklich, wenn Menschen *
 
 === Das Zeichen: das Wort selbst
 
-Das Erkennungszeichen ist *kein Logo, sondern das Wort*, handgeschrieben in der eigenen Sprache: *ZIVILIST*, *CIVILIAN* und so weiter. Die Übersetzungen kommen von den Menschen, die online mitschreiben.
+Es gibt zwei Zeichen: ein stilles, das jeder versteht, und ein sichtbares, das spricht.
+
+=== Das stille Zeichen: ein Glas Wasser
+
+*Ein Glas Wasser im Fenster.* Es braucht keine Schrift und keine Sprache, kostet nichts und ist in jeder Kultur ein Zeichen der Gastfreundschaft. Niemand kann es verbieten: Wer Bescheid weiß, versteht es, alle anderen sehen nur ein Glas. Damit können auch Menschen mitmachen, die nicht lesen können oder für die ein Wort am Fenster gefährlich wäre. Es ist zugleich das Herz der offenen Tür: ein Glas Wasser für die, die vorbeikommen.
+
+=== Das sichtbare Zeichen: das Wort
+
+Das sichtbare Erkennungszeichen ist *kein Logo, sondern das Wort*, handgeschrieben in der eigenen Sprache: *ZIVILIST*, *CIVILIAN* und so weiter. Die Übersetzungen kommen von den Menschen, die online mitschreiben.
 
 * Jeder kann es mit Stift, Kreide oder Pinsel selbst machen. Es kostet nichts.
 * Es gehört niemandem und lässt sich von keiner Partei und keiner Marke vereinnahmen.
@@ -185,8 +199,8 @@ Von ganz privat bis ganz öffentlich. Jeder wählt seine Stufe selbst.
 [cols="1,3,1,2",options="header"]
 |===
 | Stufe | Was man tut | Kosten | Wer es sieht
-| 1 | *Zivilistenpass* ausfüllen und bei sich tragen | 0 € | man selbst
-| 2 | Zettel ins Fenster hängen: _„Hier wohnt ein Zivilist.“_ | 0 € | Nachbarn
+| 1 | *Still:* ein Glas Wasser ins Fenster, oder Zivilistenpass bzw. Zettel mit dem Wort in der Tasche | 0 € | man selbst
+| 2 | Das Wort ins Fenster hängen, *nur wo es sicher ist* | 0 € | Nachbarn
 | 3 | Am 21. September das Wort mit *Kreide* vor die eigene Haustür schreiben | 1 € | die Straße
 | 4 | *Zeig es:* das Kreidewort vor der Tür oder das Wort im Fenster fotografieren und online teilen | 0 € | die Welt
 | 5 | Eine *Etappe* der Staffel gehen oder eine *offene Tür* sein | Zeit | alle unterwegs
@@ -199,7 +213,7 @@ Das Foto zeigt nur das Wort: *kein Gesicht, kein Name*. Damit können auch Mensc
 Das Flugblatt ist selbst der Pass, ein A5-Blatt, gefaltet zu einem kleinen Heft.
 
 * *Innen:* Vorname, Stadt und ein Satz in eigener Handschrift („Ich will keinen Krieg, weil …“).
-* *Stempelfelder:* Offene Türen wie Kneipen, Cafés oder Gemeindehäuser stempeln oder unterschreiben den Pass, nach dem Vorbild des Pilgerpasses (Credencial) auf dem Jakobsweg.
+* *Stempelfelder:* Offene Türen wie Teestuben, Cafés, Gemeindehäuser oder Gebetshäuser stempeln oder unterschreiben den Pass, nach dem Vorbild des Pilgerpasses (Credencial) auf dem Jakobsweg.
 * *Rückseite:* Satz 1 der Charta in den Sprachen „der anderen Seite“. Der Pass ist dazu da, weiterzuwandern.
 * *QR-Code:* Er führt zum Mitschreiben am Text und zum Teilen des eigenen Fotos.
 * *Ehrlich gekennzeichnet:* „Kein amtliches Dokument. Behalte deinen echten Pass.“ Wir schmeißen unsere Pässe nicht weg, denn für Geflüchtete sind sie überlebenswichtig. Wir legen nur einen dazu, der unter Zivilisten gilt.

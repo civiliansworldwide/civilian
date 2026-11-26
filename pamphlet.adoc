@@ -4,30 +4,32 @@
 // Quelltext des Flugblatts. Druckvorlage: druck/pamphlet-a4.html
 // Jede gedruckte Fassung bekommt eine Nummer, damit man sieht, wie der Text wächst.
 
-Fassung 0.1 · 25.11.2026
+Fassung 0.2 · 26.11.2026
 
 == Und vielleicht reicht das.
 
-Kriege, Klimakrise, Angst. Manchmal fühlt man sich wie ein Niemand, der zuschaut, wie alles zerbricht.
+Ganz gleich, wo du lebst, woran du glaubst und welches Land du liebst: Du willst, dass deine Kinder ohne Angst aufwachsen. Die Menschen auf der anderen Seite wollen das auch.
 
-Aber wir Niemande sind die meisten. Wir tragen keine Uniform. Wir haben keine Seite gegen andere Menschen. Gerade deshalb können wir etwas, was keine Regierung und keine Armee kann: *gemeinsam losgehen, ohne Fahne und ohne Feind.*
+*Wir sind Zivilisten. Wir sind die Mehrheit der Menschheit. Ohne uns findet kein Krieg statt, und ohne uns gibt es keinen Frieden.*
 
 == Was wir glauben
 
 . Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.
-. Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen.
+. Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen, auf jeder Seite.
 . Zivilisten, egal auf welcher Seite, dürfen niemals Ziel von Gewalt sein.
-. Ich wähle keine Seite gegen Menschen. Ich wähle die Seite des Lebens.
+. Ich stelle mich gegen keinen Menschen. Ich stelle mich auf die Seite des Lebens.
 . Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.
-. Ich gehe einen Schritt, so groß oder so klein, wie ich kann.
-. Ich rette nicht allein die Welt. Aber zusammen müssen wir nicht nichts tun.
+. Ich gehe einen Schritt, so groß oder so klein, wie ich kann, und so sicher, wie ich kann.
+. Ich kann die Welt nicht allein retten. Aber gemeinsam können wir etwas tun.
+
+_Wir sagen nicht, wer recht hat, und nicht, dass alle gleich schuld sind. Wir verlangen von niemandem, sich nicht zu wehren._
 
 == Was du tun kannst
 
-* *Unterschreiben:* online, mit 30 Sekunden Aufwand.
-* *Vor die Tür gehen:* am 21. September, dem Weltfriedenstag. 100 Meter reichen.
-* *Ein Stück weitertragen:* von deiner Stadt bis in die nächste.
-* *Eine Tür öffnen:* Kneipe, Café, Gemeindehaus oder Küche. Ein Glas Wasser für die, die vorbeikommen.
+* *Still:* ein Glas Wasser ins Fenster. Oder das Wort ZIVILIST als Zettel in der Tasche.
+* *Sichtbar:* das Wort ins Fenster oder mit Kreide vor die Tür. Nur, wo es sicher ist.
+* *Zeig es:* ein Foto vom Wort mit #IchBinZivilist. Ohne Gesicht, ohne Ort.
+* *Sei eine offene Tür:* Teestube, Café, Küche, Gemeindehaus oder Gebetshaus. Ein Glas Wasser für die, die vorbeikommen.
 
 == Dieser Text gehört nicht mir.
 
@@ -38,4 +40,4 @@ Und dann gib diesen Zettel weiter.
 [.qr]
 _(QR-Code und Link)_
 
-_Keine Partei. Keine Religion. Kein Geld. Nur Menschen._
+_Für Menschen jeden Glaubens und ohne Glauben, mit und ohne Uniform. Keine Partei, kein Geld, kein Feind._
