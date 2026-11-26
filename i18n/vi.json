@@ -7,33 +7,34 @@
   "title": "Chúng ta chỉ là dân thường.",
   "sub": "Và có lẽ thế là đủ.",
   "intro": [
-    "Chiến tranh, khủng hoảng khí hậu, nỗi sợ. Đôi khi ta thấy mình chẳng là ai cả, chỉ đứng nhìn mọi thứ đổ vỡ.",
-    "Nhưng chúng ta, những người chẳng là ai, lại là số đông. Chúng ta không mặc quân phục. Chúng ta không đứng về phe nào để chống lại người khác. Chính vì vậy chúng ta làm được điều mà không chính phủ hay quân đội nào làm được: <strong>cùng nhau lên đường, không cờ và không kẻ thù.</strong>"
+    "Dù bạn sống ở đâu, tin vào điều gì và yêu đất nước nào: bạn muốn con mình lớn lên không sợ hãi. Những người ở phía bên kia cũng muốn như vậy.",
+    "Để làm được điều đó, không ai cần giương cờ chống lại người khác hay tìm kẻ thù. Chúng ta chỉ cần cho nhau thấy mình, <strong>đúng như tất cả chúng ta: dân thường.</strong> Điều đó không chính phủ hay quân đội nào làm thay chúng ta được."
   ],
-  "claim": "Chúng ta là dân thường. Chúng ta là số đông của nhân loại. Và chính chúng ta quyết định điều gì sẽ xảy ra tiếp theo.",
+  "claim": "Chúng ta là dân thường. Chúng ta là số đông của nhân loại. Không có chúng ta thì không có chiến tranh, và không có chúng ta thì cũng không có hòa bình.",
   "h_believe": "Điều chúng ta tin",
   "charter": [
     "Tôi không muốn chiến tranh. Và tôi tin rằng những người ở phía bên kia cũng không muốn.",
-    "Mọi đứa trẻ đều có quyền lớn lên mà không sợ bom đạn.",
+    "Mọi đứa trẻ, ở bất cứ phía nào, đều có quyền lớn lên mà không sợ bom đạn.",
     "Dân thường, dù ở phía nào, không bao giờ được trở thành mục tiêu của bạo lực.",
-    "Tôi không đứng về phe nào để chống lại con người. Tôi đứng về phía sự sống.",
+    "Tôi không đứng lên chống lại bất kỳ con người nào. Tôi đứng về phía sự sống.",
     "Tôi mở cửa, mở mâm cơm và lắng nghe những người đang trên đường.",
-    "Tôi bước một bước, lớn hay nhỏ tùy sức mình.",
-    "Một mình tôi không cứu được thế giới. Nhưng cùng nhau, chúng ta không cần phải khoanh tay đứng nhìn."
+    "Tôi bước một bước, lớn hay nhỏ tùy sức mình, và an toàn hết mức có thể.",
+    "Một mình tôi không thể cứu thế giới. Nhưng cùng nhau, chúng ta có thể làm được điều gì đó."
   ],
+  "notsay": "Chúng tôi không nói ai đúng ai sai, cũng không nói mọi bên đều có lỗi như nhau. Chúng tôi không đòi ai từ bỏ quyền tự vệ. Chúng tôi chỉ nói: trẻ em ở cả hai phía đều mang cùng một nỗi sợ, và những người không có vũ khí đã không muốn cuộc chiến này.",
   "h_do": "Bạn có thể làm gì",
   "steps": [
-    "<strong>Viết ra:</strong> chữ {word} bằng tay, rồi dán lên cửa sổ.",
-    "<strong>Bước ra cửa:</strong> ngay từ hôm nay, và vào ngày 21 tháng 9, Ngày Quốc tế Hòa bình, viết bằng phấn trước cửa nhà.",
+    "<strong>Lặng lẽ:</strong> đặt một cốc nước bên cửa sổ. Hoặc mang chữ {word} theo mình trên một mảnh giấy. Ai cũng hiểu, và không ai có thể cấm.",
+    "<strong>Công khai:</strong> viết chữ ấy bằng tay lên cửa sổ hoặc bằng phấn trước cửa nhà, ngay từ hôm nay và vào ngày 21 tháng 9, Ngày Quốc tế Hòa bình. Chỉ ở nơi an toàn.",
     "<strong>Cho mọi người thấy:</strong> chụp ảnh chữ ấy và chia sẻ với {tag}. Không mặt, không địa điểm.",
-    "<strong>Hãy là một cánh cửa rộng mở</strong> hoặc đi một chặng đường: quán nhậu, quán cà phê, nhà văn hóa hay gian bếp. Một cốc nước cho người qua đường."
+    "<strong>Hãy là một cánh cửa rộng mở</strong> hoặc đi một đoạn đường: quán trà, quán cà phê, gian bếp, nhà văn hóa hay nơi thờ tự. Một cốc nước cho người qua đường."
   ],
   "note": "An toàn trước hết: chữ trên cửa sổ hay trước cửa nhà cho biết bạn sống ở đâu. Ở nơi điều đó nguy hiểm, hãy chỉ giữ chữ ấy bên mình, trên một mảnh giấy trong túi. Điều đó cũng có giá trị như vậy. Chỉ chụp chữ, không chụp mặt, và tắt định vị của máy ảnh trước. Không ai nên tự đặt mình vào nguy hiểm vì dấu hiệu này.",
   "h_write": "Văn bản này không thuộc về ai",
   "write": "Mọi thứ ở đây đều là bản nháp. Gạch đi điều làm bạn khó chịu và thêm điều còn thiếu. Phiên bản sau sẽ có lời của bạn.",
   "btn_pad": "Cùng viết (không cần tài khoản)",
-  "h_not": "Chúng ta không phải là gì",
-  "not": "Không đảng phái. Không tôn giáo. Không cờ. Không tiền. Chúng ta không chống lại ai. Chúng ta không thay thế tổ chức nào đang làm việc vì hòa bình; chúng ta muốn dẫn mọi người đến với họ.",
+  "h_not": "Cho tất cả mọi người",
+  "not": "Cho người thuộc mọi tín ngưỡng và không tín ngưỡng, mọi nguồn gốc, mặc quân phục hay không. Bạn không phải từ bỏ điều gì thiêng liêng với mình, cũng không phải thôi yêu đất nước mình. Người lính cũng từng là dân thường và sẽ lại là dân thường, còn gia đình họ thì ngay bây giờ đã là. Không đảng phái, không tiền, không kẻ thù. Chúng tôi không thay thế tổ chức nào đang làm việc vì hòa bình; chúng tôi muốn dẫn mọi người đến với họ.",
   "draft": "Bản dịch này là bản nháp. Hãy giúp chúng tôi hoàn thiện nó.",
   "privacy": "Trang này không dùng cookie, không đếm ai và không tải gì từ máy chủ khác.",
   "languages": "Ngôn ngữ"

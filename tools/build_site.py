@@ -112,10 +112,14 @@ def page(langs, code):
 
   <p class="claim">{e(d['claim'])}</p>
 
+  <h2>{e(d['h_not'])}</h2>
+  <p>{e(d['not'])}</p>
+
   <h2>{e(d['h_believe'])}</h2>
   <ol class="charter">
 {charter}
   </ol>
+  <p class="notsay">{e(d['notsay'])}</p>
 
   <h2>{e(d['h_do'])}</h2>
   <ol class="steps">
@@ -127,8 +131,6 @@ def page(langs, code):
   <p>{e(d['write'])}</p>
   <div class="btns"><a class="btn" href="{PAD_URL}">{e(d['btn_pad'])}</a>{more}</div>
 
-  <h2>{e(d['h_not'])}</h2>
-  <p>{e(d['not'])}</p>
 
   <footer>
     <p dir="ltr">{CONTACT} · <a href="{GITHUB}">GitHub</a></p>
@@ -221,6 +223,8 @@ ol.charter li:first-child { font-weight: 700; }
   text-align: center; font-weight: 700; font-size: .85rem; line-height: 1.6rem; }
 .note { border-inline-start: 3px solid var(--line); padding-block: .2rem; padding-inline-start: 1rem;
   color: var(--soft); font-size: .95rem; }
+.notsay { margin: 1.2rem 0 0; padding: .7rem 1rem; background: color-mix(in srgb, var(--ink) 5%, transparent);
+  font-size: .97rem; border-radius: 4px; }
 .safety { border: 2px solid var(--accent); border-radius: 4px; padding: .8rem 1rem; font-size: .97rem;
   background: color-mix(in srgb, var(--accent) 6%, transparent); }
 a { color: var(--accent); }

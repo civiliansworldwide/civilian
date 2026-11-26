@@ -7,33 +7,34 @@
   "title": "Sisi ni raia tu.",
   "sub": "Na huenda hilo linatosha.",
   "intro": [
-    "Vita, mgogoro wa tabianchi, hofu. Wakati mwingine mtu hujiona si kitu, akitazama tu kila kitu kikiporomoka.",
-    "Lakini sisi tusio kitu ndio wengi. Hatuvai sare za kijeshi. Hatuegemei upande wowote dhidi ya binadamu wengine. Ndiyo maana tunaweza kufanya kile ambacho hakuna serikali wala jeshi linaloweza: <strong>kuanza safari pamoja, bila bendera na bila adui.</strong>"
+    "Popote unapoishi, chochote unachoamini, na nchi yoyote unayoipenda: unataka watoto wako wakue bila hofu. Watu wa upande mwingine nao wanataka hivyo.",
+    "Kwa hilo hakuna anayehitaji kupandisha bendera dhidi ya wengine wala kutafuta adui. Tunahitaji tu kujitambulisha, <strong>kama tulivyo sote: raia.</strong> Hilo hakuna serikali wala jeshi linaloweza kulifanya kwa niaba yetu."
   ],
-  "claim": "Sisi ni raia. Sisi ndio wengi wa wanadamu wote. Na sisi ndio tunaoamua kitakachotokea baadaye.",
+  "claim": "Sisi ni raia. Sisi ndio wengi wa wanadamu wote. Bila sisi hakuna vita, na bila sisi hakuna amani.",
   "h_believe": "Tunachoamini",
   "charter": [
     "Sitaki vita. Na ninaamini watu wa upande mwingine nao hawataki vita.",
-    "Kila mtoto ana haki ya kukua bila hofu ya mabomu.",
+    "Kila mtoto, wa upande wowote, ana haki ya kukua bila hofu ya mabomu.",
     "Raia, wa upande wowote ule, hawapaswi kamwe kulengwa na vurugu.",
-    "Siegemei upande wowote dhidi ya watu. Ninaegemea upande wa uhai.",
+    "Sisimami dhidi ya binadamu yeyote. Ninasimama upande wa uhai.",
     "Ninafungua mlango wangu, meza yangu na sikio langu kwa walio safarini.",
-    "Ninapiga hatua moja, kubwa au ndogo kadiri ninavyoweza.",
-    "Peke yangu sitaokoa dunia. Lakini pamoja hatulazimiki kukaa bila kufanya lolote."
+    "Ninapiga hatua moja, kubwa au ndogo kadiri ninavyoweza, na salama kadiri ninavyoweza.",
+    "Siwezi kuiokoa dunia peke yangu. Lakini pamoja tunaweza kufanya jambo."
   ],
+  "notsay": "Hatusemi nani yuko sahihi, wala kwamba kila upande una hatia sawa. Hatumtaki mtu yeyote aache kujilinda. Tunasema tu: watoto wa pande zote mbili wana hofu ileile, na watu wasio na silaha hawakuyataka vita hivi.",
   "h_do": "Unachoweza kufanya",
   "steps": [
-    "<strong>Iandike:</strong> neno {word} kwa mkono wako, na ulibandike dirishani.",
-    "<strong>Toka mlangoni:</strong> kuanzia leo, na tarehe 21 Septemba, Siku ya Kimataifa ya Amani, kwa chaki mbele ya mlango wako.",
+    "<strong>Kimya kimya:</strong> weka glasi ya maji dirishani. Au beba neno {word} kwenye karatasi. Kila mtu analielewa, na hakuna anayeweza kulikataza.",
+    "<strong>Waziwazi:</strong> andika neno hilo kwa mkono dirishani au kwa chaki mbele ya mlango wako, kuanzia leo na tarehe 21 Septemba, Siku ya Kimataifa ya Amani. Mahali palipo salama tu.",
     "<strong>Lionyeshe:</strong> piga picha ya neno hilo na uishiriki kwa {tag}. Bila uso, bila mahali.",
-    "<strong>Kuwa mlango ulio wazi</strong> au tembea hatua moja ya safari: baa, mkahawa, ukumbi wa mtaa au jikoni. Glasi ya maji kwa wapita njia."
+    "<strong>Kuwa mlango ulio wazi</strong> au tembea sehemu ya njia: kibanda cha chai, mkahawa, jikoni, ukumbi wa mtaa au nyumba ya ibada. Glasi ya maji kwa wapita njia."
   ],
   "note": "Usalama kwanza: neno dirishani au mbele ya mlango huonyesha unapoishi. Mahali ambapo hilo ni hatari, beba neno hilo peke yako, kwenye karatasi mfukoni. Hilo lina thamani ileile. Piga picha ya neno tu, bila uso, na kwanza zima mahali (location) kwenye kamera. Hakuna anayepaswa kujiweka hatarini kwa ajili ya ishara hii.",
   "h_write": "Maandishi haya si mali ya mtu yeyote",
   "write": "Kila kitu hapa ni rasimu. Futa kinachokukera na ongeza kinachokosekana. Toleo lijalo litakuwa na maneno yako.",
   "btn_pad": "Andika nasi (bila akaunti)",
-  "h_not": "Sisi si nini",
-  "not": "Hakuna chama. Hakuna dini. Hakuna bendera. Hakuna pesa. Hatumpingi mtu yeyote. Hatuchukui nafasi ya shirika lolote linalofanya kazi ya amani; tunataka kuwaongoza watu kwao.",
+  "h_not": "Kwa wote",
+  "not": "Kwa watu wa kila imani na wasio na imani, wa kila asili, wenye sare na wasio na sare. Huhitaji kuacha chochote kilicho kitakatifu kwako, wala kuacha kuipenda nchi yako. Askari nao walikuwa raia na watakuwa raia tena, na familia zao tayari ni raia. Hakuna chama, hakuna pesa, hakuna adui. Hatuchukui nafasi ya shirika lolote linalofanya kazi ya amani; tunataka kuwaongoza watu kwao.",
   "draft": "Tafsiri hii ni rasimu. Tusaidie kuiboresha.",
   "privacy": "Ukurasa huu hautumii vidakuzi, haumhesabu mtu yeyote na haupakii chochote kutoka seva nyingine.",
   "languages": "Lugha"

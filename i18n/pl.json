@@ -7,33 +7,34 @@
   "title": "Jesteśmy tylko cywilami.",
   "sub": "I może to wystarczy.",
   "intro": [
-    "Wojny, kryzys klimatyczny, strach. Czasem człowiek czuje się jak nikt, kto patrzy, jak wszystko się rozpada.",
-    "Ale nas, tych nikt, jest najwięcej. Nie nosimy mundurów. Nie stajemy po żadnej stronie przeciwko innym ludziom. Właśnie dlatego możemy zrobić coś, czego nie potrafi żaden rząd ani żadna armia: <strong>wyruszyć razem, bez flagi i bez wroga.</strong>"
+    "Gdziekolwiek mieszkasz, w cokolwiek wierzysz i jakikolwiek kraj kochasz: chcesz, żeby twoje dzieci dorastały bez strachu. Ludzie po drugiej stronie też tego chcą.",
+    "Nikt nie musi w tym celu podnosić flagi przeciwko innym ani szukać wroga. Musimy się tylko dać rozpoznać, <strong>jako ci, kim wszyscy jesteśmy: cywile.</strong> Żaden rząd i żadna armia nie zrobi tego za nas."
   ],
-  "claim": "Jesteśmy cywilami. Jesteśmy większością ludzkości. I to my decydujemy, co będzie dalej.",
+  "claim": "Jesteśmy cywilami. Jesteśmy większością ludzkości. Bez nas nie ma wojny i bez nas nie ma pokoju.",
   "h_believe": "W co wierzymy",
   "charter": [
     "Nie chcę wojny. I wierzę, że ludzie po drugiej stronie też jej nie chcą.",
-    "Każde dziecko ma prawo dorastać bez strachu przed bombami.",
+    "Każde dziecko ma prawo dorastać bez strachu przed bombami, po każdej stronie.",
     "Cywile, po jakiejkolwiek stronie, nigdy nie mogą być celem przemocy.",
-    "Nie staję po żadnej stronie przeciwko ludziom. Staję po stronie życia.",
+    "Nie staję przeciwko żadnemu człowiekowi. Staję po stronie życia.",
     "Otwieram drzwi, stół i uszy dla tych, którzy są w drodze.",
-    "Robię krok, tak duży lub tak mały, jak potrafię.",
-    "Sam nie uratuję świata. Ale razem nie musimy siedzieć bezczynnie."
+    "Robię krok, tak duży lub tak mały, jak potrafię, i tak bezpieczny, jak potrafię.",
+    "Sam nie uratuję świata. Ale razem możemy coś zrobić."
   ],
+  "notsay": "Nie mówimy, kto ma rację, ani że wszyscy są jednakowo winni. Nie żądamy od nikogo, by się nie bronił. Mówimy tylko: dzieci po obu stronach czują ten sam strach, a ludzie bez broni nie chcieli tej wojny.",
   "h_do": "Co możesz zrobić",
   "steps": [
-    "<strong>Napisz to:</strong> słowo {word}, odręcznie, i powieś je w oknie.",
-    "<strong>Wyjdź przed dom:</strong> już dziś, a 21 września, w Międzynarodowy Dzień Pokoju, kredą przed swoimi drzwiami.",
+    "<strong>Po cichu:</strong> postaw szklankę wody w oknie. Albo noś przy sobie słowo {word} na kartce. Każdy to rozumie i nikt nie może tego zakazać.",
+    "<strong>Widocznie:</strong> napisz słowo odręcznie w oknie albo kredą przed drzwiami, już dziś i 21 września, w Międzynarodowy Dzień Pokoju. Tylko tam, gdzie to bezpieczne.",
     "<strong>Pokaż to:</strong> zrób zdjęcie słowa i udostępnij je z {tag}. Bez twarzy, bez miejsca.",
-    "<strong>Bądź otwartymi drzwiami</strong> albo przejdź etap: pub, kawiarnia, świetlica lub kuchnia. Szklanka wody dla przechodzących."
+    "<strong>Bądź otwartymi drzwiami</strong> albo przejdź kawałek drogi: herbaciarnia, kawiarnia, kuchnia, świetlica lub dom modlitwy. Szklanka wody dla przechodzących."
   ],
   "note": "Bezpieczeństwo przede wszystkim: słowo w oknie lub przed drzwiami pokazuje, gdzie mieszkasz. Tam, gdzie to niebezpieczne, noś słowo tylko przy sobie, na kartce w kieszeni. To liczy się tak samo. Zdjęcia tylko samego słowa, bez twarzy, a wcześniej wyłącz lokalizację aparatu. Nikt nie powinien narażać się dla tego znaku.",
   "h_write": "Ten tekst nie należy do nikogo",
   "write": "Wszystko tutaj jest szkicem. Skreśl, co ci przeszkadza, i dopisz, czego brakuje. Następna wersja będzie zawierać twoje słowa.",
   "btn_pad": "Pisz z nami (bez konta)",
-  "h_not": "Czym nie jesteśmy",
-  "not": "Żadnej partii. Żadnej religii. Żadnej flagi. Żadnych pieniędzy. Nie jesteśmy przeciwko nikomu. Nie zastępujemy żadnej organizacji, która już działa na rzecz pokoju; chcemy prowadzić do nich ludzi.",
+  "h_not": "Dla wszystkich",
+  "not": "Dla ludzi każdej wiary i bez wiary, każdego pochodzenia, w mundurze i bez munduru. Nie musisz porzucać niczego, co jest dla ciebie święte, ani przestać kochać swojego kraju. Żołnierze też byli cywilami i znów nimi będą, a ich rodziny już nimi są. Żadnej partii, żadnych pieniędzy, żadnego wroga. Nie zastępujemy żadnej organizacji, która już działa na rzecz pokoju; chcemy prowadzić do nich ludzi.",
   "draft": "To tłumaczenie jest szkicem. Pomóż nam je poprawić.",
   "privacy": "Ta strona nie używa ciasteczek, nikogo nie liczy i niczego nie ładuje z obcych serwerów.",
   "languages": "Języki"

@@ -7,33 +7,34 @@
   "title": "We are just civilians.",
   "sub": "And maybe that is enough.",
   "intro": [
-    "Wars, climate crisis, fear. Sometimes you feel like a nobody, watching everything fall apart.",
-    "But we nobodies are the many. We wear no uniform. We take no side against other people. That is exactly why we can do something no government and no army can: <strong>set out together, with no flag and no enemy.</strong>"
+    "Wherever you live, whatever you believe and whichever country you love: you want your children to grow up without fear. The people on the other side want that too.",
+    "Nobody has to raise a flag against others or look for an enemy for that. We only have to make ourselves known, <strong>as what we all are: civilians.</strong> No government and no army can do that for us."
   ],
-  "claim": "We are civilians. We are the majority of humankind. And we decide what happens next.",
+  "claim": "We are civilians. We are the majority of humankind. Without us there is no war, and without us there is no peace.",
   "h_believe": "What we believe",
   "charter": [
     "I don't want war. And I believe the people on the other side don't want it either.",
-    "Every child has the right to grow up without fear of bombs.",
+    "Every child has the right to grow up without fear of bombs, on every side.",
     "Civilians, on any side, must never be targets of violence.",
-    "I take no side against people. I take the side of life.",
+    "I stand against no human being. I stand on the side of life.",
     "I open my door, my table and my ear to those on the road.",
-    "I take a step, as big or as small as I can.",
-    "I alone won't save the world. But together we don't have to do nothing."
+    "I take a step, as big or as small as I can, and as safe as I can.",
+    "I cannot save the world alone. But together we can do something."
   ],
+  "notsay": "We do not say who is right, and we do not say that everyone is equally to blame. We ask no one not to defend themselves. We only say: the children on both sides share the same fear, and the people without weapons did not want this war.",
   "h_do": "What you can do",
   "steps": [
-    "<strong>Write it:</strong> the word {word}, by hand, and put it in your window.",
-    "<strong>Step outside:</strong> today, and on 21 September, the International Day of Peace, in chalk at your door.",
+    "<strong>Quietly:</strong> put a glass of water in your window. Or carry the word {word} on a note. Everyone understands it, and nobody can forbid it.",
+    "<strong>Visibly:</strong> write the word by hand in your window or in chalk at your door, today and on 21 September, the International Day of Peace. Only where it is safe.",
     "<strong>Show it:</strong> take a photo of the word and share it with {tag}. No face, no location.",
-    "<strong>Be an open door</strong> or walk a stage: a pub, a café, a community hall or a kitchen. A glass of water for those passing by."
+    "<strong>Be an open door</strong> or walk part of the way: a tea house, a café, a kitchen, a community hall or a house of prayer. A glass of water for those passing by."
   ],
   "note": "Safety first: a word in your window or at your door shows where you live. Where that is dangerous, keep the word only with you, as a note in your pocket. That counts just as much. Photos of the word only, no face, and switch off your camera's location first. Nobody should put themselves in danger for this sign.",
   "h_write": "This text belongs to no one",
   "write": "Everything here is a draft. Cross out what bothers you and add what is missing. The next version will contain your words.",
   "btn_pad": "Write along (no account)",
-  "h_not": "What we are not",
-  "not": "No party. No religion. No flag. No money. We are against no one. We replace no organisation that already works for peace; we want to lead people to them.",
+  "h_not": "For everyone",
+  "not": "For people of every faith and of none, of every origin, with or without a uniform. You don't have to give up anything you hold sacred, or stop loving your country. Soldiers were civilians and will be again, and their families already are. No party, no money, no enemy. We replace no organisation that already works for peace; we want to lead people to them.",
   "draft": "This translation is a draft. Help us improve it.",
   "privacy": "This page sets no cookies, counts no one and loads nothing from other servers.",
   "languages": "Languages"

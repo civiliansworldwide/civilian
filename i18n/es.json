@@ -7,33 +7,34 @@
   "title": "Solo somos civiles.",
   "sub": "Y quizá eso baste.",
   "intro": [
-    "Guerras, crisis climática, miedo. A veces uno se siente un don nadie que mira cómo todo se rompe.",
-    "Pero los don nadie somos la mayoría. No llevamos uniforme. No tomamos partido contra otras personas. Precisamente por eso podemos hacer algo que ningún gobierno ni ningún ejército puede: <strong>ponernos en camino juntos, sin bandera y sin enemigo.</strong>"
+    "Vivas donde vivas, creas en lo que creas y ames el país que ames: quieres que tus hijos crezcan sin miedo. La gente del otro lado también lo quiere.",
+    "Para eso nadie tiene que alzar una bandera contra otros ni buscar un enemigo. Solo tenemos que darnos a conocer, <strong>como lo que todos somos: civiles.</strong> Eso no lo puede hacer por nosotros ningún gobierno ni ningún ejército."
   ],
-  "claim": "Somos civiles. Somos la mayoría de la humanidad. Y decidimos lo que viene después.",
+  "claim": "Somos civiles. Somos la mayoría de la humanidad. Sin nosotros no hay guerra, y sin nosotros no hay paz.",
   "h_believe": "Lo que creemos",
   "charter": [
     "No quiero la guerra. Y creo que la gente del otro lado tampoco la quiere.",
-    "Todo niño tiene derecho a crecer sin miedo a las bombas.",
+    "Todo niño tiene derecho a crecer sin miedo a las bombas, en cada lado.",
     "Los civiles, de cualquier lado, nunca deben ser blanco de la violencia.",
-    "No tomo partido contra las personas. Tomo partido por la vida.",
+    "No me pongo en contra de ningún ser humano. Me pongo del lado de la vida.",
     "Abro mi puerta, mi mesa y mis oídos a quienes están de camino.",
-    "Doy un paso, tan grande o tan pequeño como pueda.",
-    "Yo solo no salvaré el mundo. Pero juntos no tenemos por qué quedarnos sin hacer nada."
+    "Doy un paso, tan grande o tan pequeño como pueda, y tan seguro como pueda.",
+    "No puedo salvar el mundo yo solo. Pero juntos podemos hacer algo."
   ],
+  "notsay": "No decimos quién tiene razón ni que todos sean igual de culpables. No pedimos a nadie que no se defienda. Solo decimos: los niños de ambos lados sienten el mismo miedo, y la gente sin armas no quiso esta guerra.",
   "h_do": "Lo que puedes hacer",
   "steps": [
-    "<strong>Escríbelo:</strong> la palabra {word}, a mano, y ponla en tu ventana.",
-    "<strong>Sal a la puerta:</strong> hoy mismo, y el 21 de septiembre, Día Internacional de la Paz, con tiza delante de tu casa.",
+    "<strong>En silencio:</strong> pon un vaso de agua en tu ventana. O lleva la palabra {word} en un papel. Todo el mundo lo entiende y nadie puede prohibirlo.",
+    "<strong>A la vista:</strong> escribe la palabra a mano en tu ventana o con tiza ante tu puerta, hoy mismo y el 21 de septiembre, Día Internacional de la Paz. Solo donde sea seguro.",
     "<strong>Muéstralo:</strong> haz una foto de la palabra y compártela con {tag}. Sin cara, sin ubicación.",
-    "<strong>Sé una puerta abierta</strong> o camina una etapa: un bar, un café, un local vecinal o una cocina. Un vaso de agua para quien pase."
+    "<strong>Sé una puerta abierta</strong> o camina un trecho: una tetería, un café, una cocina, un local vecinal o una casa de oración. Un vaso de agua para quien pase."
   ],
   "note": "La seguridad, lo primero: una palabra en tu ventana o ante tu puerta muestra dónde vives. Donde eso sea peligroso, lleva la palabra solo contigo, en un papel en el bolsillo. Cuenta igual. Fotos solo de la palabra, sin cara, y desactiva antes la ubicación de la cámara. Nadie debe ponerse en peligro por este signo.",
   "h_write": "Este texto no es de nadie",
   "write": "Todo aquí es un borrador. Tacha lo que te moleste y añade lo que falte. La próxima versión llevará tus palabras.",
   "btn_pad": "Escribir con nosotros (sin cuenta)",
-  "h_not": "Lo que no somos",
-  "not": "Ningún partido. Ninguna religión. Ninguna bandera. Nada de dinero. No estamos contra nadie. No sustituimos a ninguna organización que ya trabaja por la paz; queremos llevar a la gente hacia ellas.",
+  "h_not": "Para todos",
+  "not": "Para personas de toda fe y sin fe, de todo origen, con y sin uniforme. No tienes que renunciar a nada que sea sagrado para ti ni dejar de amar a tu país. Los soldados también fueron civiles y volverán a serlo, y sus familias ya lo son. Ningún partido, nada de dinero, ningún enemigo. No sustituimos a ninguna organización que ya trabaja por la paz; queremos llevar a la gente hacia ellas.",
   "draft": "Esta traducción es un borrador. Ayúdanos a mejorarla.",
   "privacy": "Esta página no usa cookies, no cuenta a nadie y no carga nada de otros servidores.",
   "languages": "Idiomas"

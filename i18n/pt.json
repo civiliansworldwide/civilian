@@ -7,33 +7,34 @@
   "title": "Somos apenas civis.",
   "sub": "E talvez isso baste.",
   "intro": [
-    "Guerras, crise climática, medo. Às vezes sentimo-nos uns ninguéns, a ver tudo desmoronar.",
-    "Mas nós, os ninguéns, somos a maioria. Não usamos farda. Não tomamos partido contra outras pessoas. É exatamente por isso que podemos fazer o que nenhum governo e nenhum exército consegue: <strong>pôr-nos a caminho juntos, sem bandeira e sem inimigo.</strong>"
+    "Vivas onde viveres, acredites no que acreditares e ames o país que amares: queres que os teus filhos cresçam sem medo. As pessoas do outro lado também o querem.",
+    "Para isso, ninguém precisa de erguer uma bandeira contra outros nem de procurar um inimigo. Basta darmo-nos a conhecer, <strong>como aquilo que todos somos: civis.</strong> Isso nenhum governo e nenhum exército pode fazer por nós."
   ],
-  "claim": "Somos civis. Somos a maioria da humanidade. E somos nós que decidimos o que vem a seguir.",
+  "claim": "Somos civis. Somos a maioria da humanidade. Sem nós não há guerra, e sem nós não há paz.",
   "h_believe": "Aquilo em que acreditamos",
   "charter": [
     "Eu não quero a guerra. E acredito que as pessoas do outro lado também não a querem.",
-    "Toda criança tem o direito de crescer sem medo das bombas.",
+    "Toda criança tem o direito de crescer sem medo das bombas, de cada lado.",
     "Os civis, de qualquer lado, nunca podem ser alvo de violência.",
-    "Não tomo partido contra pessoas. Tomo o partido da vida.",
+    "Não me ponho contra nenhum ser humano. Ponho-me do lado da vida.",
     "Abro a minha porta, a minha mesa e os meus ouvidos a quem está de passagem.",
-    "Dou um passo, tão grande ou tão pequeno quanto puder.",
-    "Sozinho não salvo o mundo. Mas juntos não temos de ficar sem fazer nada."
+    "Dou um passo, tão grande ou tão pequeno quanto puder, e tão seguro quanto puder.",
+    "Sozinho não consigo salvar o mundo. Mas juntos podemos fazer alguma coisa."
   ],
+  "notsay": "Não dizemos quem tem razão, nem que todos são igualmente culpados. Não pedimos a ninguém que não se defenda. Dizemos apenas: as crianças dos dois lados têm o mesmo medo, e as pessoas sem armas não quiseram esta guerra.",
   "h_do": "O que podes fazer",
   "steps": [
-    "<strong>Escreve:</strong> a palavra {word}, à mão, e põe-na na tua janela.",
-    "<strong>Vem à porta:</strong> já hoje, e a 21 de setembro, Dia Internacional da Paz, a giz à frente da tua casa.",
+    "<strong>Em silêncio:</strong> põe um copo de água na janela. Ou leva a palavra {word} num papel. Toda a gente o entende, e ninguém o pode proibir.",
+    "<strong>À vista:</strong> escreve a palavra à mão na janela ou a giz à tua porta, já hoje e a 21 de setembro, Dia Internacional da Paz. Só onde for seguro.",
     "<strong>Mostra:</strong> fotografa a palavra e partilha-a com {tag}. Sem rosto, sem localização.",
-    "<strong>Sê uma porta aberta</strong> ou caminha uma etapa: um bar, um café, um salão comunitário ou uma cozinha. Um copo de água para quem passa."
+    "<strong>Sê uma porta aberta</strong> ou caminha um troço: uma casa de chá, um café, uma cozinha, um salão comunitário ou uma casa de oração. Um copo de água para quem passa."
   ],
   "note": "Segurança primeiro: uma palavra na janela ou à porta mostra onde moras. Onde isso for perigoso, guarda a palavra só contigo, num papel no bolso. Conta da mesma maneira. Fotos só da palavra, sem rosto, e desliga antes a localização da câmara. Ninguém deve pôr-se em perigo por este sinal.",
   "h_write": "Este texto não é de ninguém",
   "write": "Tudo aqui é um rascunho. Risca o que te incomoda e acrescenta o que falta. A próxima versão terá as tuas palavras.",
   "btn_pad": "Escrever connosco (sem conta)",
-  "h_not": "O que não somos",
-  "not": "Nenhum partido. Nenhuma religião. Nenhuma bandeira. Nenhum dinheiro. Não somos contra ninguém. Não substituímos nenhuma organização que já trabalha pela paz; queremos levar as pessoas até elas.",
+  "h_not": "Para todos",
+  "not": "Para pessoas de todas as fés e sem fé, de todas as origens, com e sem farda. Não tens de abdicar de nada que te seja sagrado, nem de deixar de amar o teu país. Também os soldados foram civis e voltarão a sê-lo, e as suas famílias já o são. Nenhum partido, nenhum dinheiro, nenhum inimigo. Não substituímos nenhuma organização que já trabalha pela paz; queremos levar as pessoas até elas.",
   "draft": "Esta tradução é um rascunho. Ajuda-nos a melhorá-la.",
   "privacy": "Esta página não usa cookies, não conta ninguém e não carrega nada de outros servidores.",
   "languages": "Línguas"
