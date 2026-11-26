@@ -1,32 +1,55 @@
-= civilian
+= Civilian
+:lang: de
 
-Ein Friedensgedanke von unten: Zivilisten aller Seiten gehen los, ohne Fahne, ohne Feind.
+*Wir sind nur Zivilisten. Und vielleicht reicht das.* · _We are just civilians. And maybe that is enough._
 
-Webseite: https://civiliansworldwide.github.io/civilian/[civiliansworldwide.github.io/civilian]
+Webseite in 24 Sprachen / website in 24 languages: *https://civiliansworldwide.github.io/civilian/*
 
-* link:civilian.adoc[civilian.adoc]: der Ausgangstext („deep night thought“)
-* link:konzept.adoc[konzept.adoc]: das ausgearbeitete Konzept mit Charta, Recherche zu ähnlichen Ansätzen, Modell und Risiken
-* link:route.adoc[route.adoc]: Lagebild der Krisenregionen und Pilgerwege: viele gleichwertige Wege, ein gemeinsamer Tag (21. September)
-* link:ansprache.adoc[ansprache.adoc]: wie man Menschen gewinnt (Schneeball statt Spam), mit Vorlagen
-* link:pamphlet.adoc[pamphlet.adoc]: Text des Flugblatts (Fassung 0.1)
-* `druck/pamphlet-a4.html`: Druckvorlage, A4 quer mit 2× A5 zum Durchschneiden
-* `tools/reisewarnungen.py`: gleicht die Route mit den Reisewarnungen des Auswärtigen Amts ab und erzeugt `lage-aa.adoc` (Aufruf: `python3 -I tools/reisewarnungen.py`)
-* `druck/qr.sh <URL>`: erzeugt den QR-Code (`druck/qr.svg`). Die URL muss außerdem in `pamphlet-a4.html` bei `URL_TEXT` eingetragen werden.
+[quote]
+____
+Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.
 
-HTML erzeugen:
+_I don't want war. And I believe the people on the other side don't want it either._
+____
 
-----
-asciidoctor -a webfonts! konzept.adoc
-----
+== Worum es geht
 
-== Mehrsprachige Webseite
+Zivilisten aller Seiten geben sich zu erkennen: mit einem Glas Wasser im Fenster, mit dem Wort ZIVILIST, mit einer offenen Tür. Für Menschen jeden Glaubens und ohne Glauben, jeder Herkunft, mit und ohne Uniform. Keine Partei, kein Geld, kein Feind.
 
-Die Texte der Webseite liegen in `i18n/<sprache>.json` (24 Sprachen). Daraus erzeugt
+_Wir sind Zivilisten. Wir sind die Mehrheit der Menschheit. Ohne uns findet kein Krieg statt, und ohne uns gibt es keinen Frieden._
 
-----
-python3 -I tools/build_site.py
-----
+== What this is (English)
 
-die Startseite (`index.html`, Sprachauswahl), je Sprache `<sprache>/index.html` und `assets/site.css`.
-Die erzeugten HTML-Dateien nie direkt ändern, sondern die JSON-Datei und dann neu erzeugen.
-Alle Übersetzungen außer Deutsch sind Entwürfe: Korrekturen von Muttersprachlern sind willkommen.
+Civilians on all sides make themselves visible: with a glass of water in the window, with the word CIVILIAN, with an open door. For people of every faith and of none, of every origin, with or without a uniform. No party, no money, no enemy.
+
+_We are civilians. We are the majority of humankind. Without us there is no war, and without us there is no peace._
+
+== Mithelfen / Help
+
+Dieser Text gehört niemandem. Alles hier ist ein Entwurf. / _This text belongs to no one. Everything here is a draft._
+
+* *Übersetzungen verbessern / improve a translation:* Jede Sprache steht in einer Datei `i18n/<code>.json`. Alle Übersetzungen außer Deutsch sind Entwürfe. Korrekturen von Muttersprachlern sind das Wertvollste, was du beitragen kannst. / _Every language lives in one file, `i18n/<code>.json`. All translations except German are drafts; corrections by native speakers are the most valuable contribution._
+* *Neue Sprache / new language:* eine bestehende Datei kopieren, übersetzen, als Pull Request oder Issue schicken. / _copy an existing file, translate it, send it as a pull request or issue._
+* *Mitschreiben ohne Konto / write along without an account:* Link auf der Webseite.
+* *Kontakt / contact:* civilian6 [at] proton.me
+
+== Inhalt des Repos
+
+[cols="1,3"]
+|===
+| `i18n/*.json` | Texte der Webseite, eine Datei pro Sprache
+| `tools/build_site.py` | erzeugt daraus die Webseite: `python3 -I tools/build_site.py` (Startseite `index.html`, `<sprache>/index.html`, `assets/site.css`). Die erzeugten HTML-Dateien nie direkt ändern.
+| link:konzept.adoc[konzept.adoc] | das Konzept: Charta, Zeichen (Glas Wasser, das Wort), Stufen, Schutz, Vorbilder, Risiken, Umsetzungsplan
+| link:route.adoc[route.adoc] | Pilgerwege: viele gleichwertige Wege, ein gemeinsamer Tag (21. September), mit Lagebild der Krisenregionen
+| link:ansprache.adoc[ansprache.adoc] | wie man Menschen gewinnt (Schneeball statt Spam), mit Vorlagen
+| link:pamphlet.adoc[pamphlet.adoc] | Text des Flugblatts (Fassung 0.2)
+| `druck/pamphlet-a4.html` | Flugblatt: A4 quer = 2× A5 zum Durchschneiden
+| `druck/zivilistenpass.html` | Zivilistenpass: A4, gefaltet zu einem Heft mit 8 Seiten A7
+| `druck/qr.sh <URL>` | erzeugt den QR-Code `druck/qr.svg`
+| `tools/reisewarnungen.py` | gleicht die Wege mit den Reisewarnungen des Auswärtigen Amts ab und erzeugt `lage-aa.adoc`
+| link:civilian.adoc[civilian.adoc] | der Ausgangstext („deep night thought“)
+|===
+
+Konzept als HTML: `asciidoctor -a webfonts! konzept.adoc`
+
+Die Webseite setzt keine Cookies, zählt niemanden und lädt nichts von fremden Servern. / _The website sets no cookies, counts no one and loads nothing from other servers._
