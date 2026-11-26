@@ -1,0 +1,40 @@
+{
+  "lang": "fr",
+  "name": "Français",
+  "dir": "ltr",
+  "word": "CIVIL",
+  "tag": "#IAmACivilian",
+  "title": "Nous ne sommes que des civils.",
+  "sub": "Et peut-être que cela suffit.",
+  "intro": [
+    "Guerres, crise climatique, peur. On se sent parfois comme un moins que rien qui regarde tout se briser.",
+    "Mais nous, les moins que rien, sommes les plus nombreux. Nous ne portons pas d’uniforme. Nous ne prenons parti contre personne. C’est justement pour cela que nous pouvons faire ce qu’aucun gouvernement ni aucune armée ne peut : <strong>partir ensemble, sans drapeau et sans ennemi.</strong>"
+  ],
+  "claim": "Nous sommes des civils. Nous sommes la majorité de l’humanité. Et c’est nous qui décidons de la suite.",
+  "h_believe": "Ce que nous croyons",
+  "charter": [
+    "Je ne veux pas la guerre. Et je crois que les gens de l’autre côté ne la veulent pas non plus.",
+    "Chaque enfant a le droit de grandir sans la peur des bombes.",
+    "Les civils, de quelque côté que ce soit, ne doivent jamais être la cible de la violence.",
+    "Je ne prends parti contre personne. Je prends le parti de la vie.",
+    "J’ouvre ma porte, ma table et mon oreille à ceux qui sont en chemin.",
+    "Je fais un pas, aussi grand ou aussi petit que je peux.",
+    "Je ne sauverai pas le monde tout seul. Mais ensemble, nous ne sommes pas obligés de ne rien faire."
+  ],
+  "h_do": "Ce que tu peux faire",
+  "steps": [
+    "<strong>Écris-le :</strong> le mot {word}, à la main, et mets-le à ta fenêtre.",
+    "<strong>Sors sur le pas de ta porte :</strong> dès aujourd’hui, et le 21 septembre, Journée internationale de la paix, à la craie devant chez toi.",
+    "<strong>Montre-le :</strong> photographie le mot et partage-le avec {tag}.",
+    "<strong>Sois une porte ouverte</strong> ou marche une étape : un bistrot, un café, une salle de quartier ou une cuisine. Un verre d’eau pour ceux qui passent."
+  ],
+  "note": "Tout fonctionne de façon anonyme. Pas de visage, pas de nom. Personne ne doit se mettre en danger pour ce signe. Un papier gardé dans un tiroir compte tout autant.",
+  "h_write": "Ce texte n’appartient à personne",
+  "write": "Tout ici est un brouillon. Barre ce qui te dérange et ajoute ce qui manque. La prochaine version contiendra tes mots.",
+  "btn_pad": "Écrire avec nous (sans compte)",
+  "h_not": "Ce que nous ne sommes pas",
+  "not": "Aucun parti. Aucune religion. Aucun drapeau. Pas d’argent. Nous ne sommes contre personne. Nous ne remplaçons aucune organisation qui œuvre déjà pour la paix ; nous voulons y conduire les gens.",
+  "draft": "Cette traduction est un brouillon. Aide-nous à l’améliorer.",
+  "privacy": "Cette page n’utilise pas de cookies, ne compte personne et ne charge rien depuis d’autres serveurs.",
+  "languages": "Langues"
+}

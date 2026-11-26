@@ -1,0 +1,40 @@
+{
+  "lang": "es",
+  "name": "Español",
+  "dir": "ltr",
+  "word": "CIVIL",
+  "tag": "#IAmACivilian",
+  "title": "Solo somos civiles.",
+  "sub": "Y quizá eso baste.",
+  "intro": [
+    "Guerras, crisis climática, miedo. A veces uno se siente un don nadie que mira cómo todo se rompe.",
+    "Pero los don nadie somos la mayoría. No llevamos uniforme. No tomamos partido contra otras personas. Precisamente por eso podemos hacer algo que ningún gobierno ni ningún ejército puede: <strong>ponernos en camino juntos, sin bandera y sin enemigo.</strong>"
+  ],
+  "claim": "Somos civiles. Somos la mayoría de la humanidad. Y decidimos lo que viene después.",
+  "h_believe": "Lo que creemos",
+  "charter": [
+    "No quiero la guerra. Y creo que la gente del otro lado tampoco la quiere.",
+    "Todo niño tiene derecho a crecer sin miedo a las bombas.",
+    "Los civiles, de cualquier lado, nunca deben ser blanco de la violencia.",
+    "No tomo partido contra las personas. Tomo partido por la vida.",
+    "Abro mi puerta, mi mesa y mis oídos a quienes están de camino.",
+    "Doy un paso, tan grande o tan pequeño como pueda.",
+    "Yo solo no salvaré el mundo. Pero juntos no tenemos por qué quedarnos sin hacer nada."
+  ],
+  "h_do": "Lo que puedes hacer",
+  "steps": [
+    "<strong>Escríbelo:</strong> la palabra {word}, a mano, y ponla en tu ventana.",
+    "<strong>Sal a la puerta:</strong> hoy mismo, y el 21 de septiembre, Día Internacional de la Paz, con tiza delante de tu casa.",
+    "<strong>Muéstralo:</strong> haz una foto de la palabra y compártela con {tag}.",
+    "<strong>Sé una puerta abierta</strong> o camina una etapa: un bar, un café, un local vecinal o una cocina. Un vaso de agua para quien pase."
+  ],
+  "note": "Todo funciona de forma anónima. Sin cara, sin nombre. Nadie debe ponerse en peligro por este signo. Un papel guardado en un cajón cuenta igual.",
+  "h_write": "Este texto no es de nadie",
+  "write": "Todo aquí es un borrador. Tacha lo que te moleste y añade lo que falte. La próxima versión llevará tus palabras.",
+  "btn_pad": "Escribir con nosotros (sin cuenta)",
+  "h_not": "Lo que no somos",
+  "not": "Ningún partido. Ninguna religión. Ninguna bandera. Nada de dinero. No estamos contra nadie. No sustituimos a ninguna organización que ya trabaja por la paz; queremos llevar a la gente hacia ellas.",
+  "draft": "Esta traducción es un borrador. Ayúdanos a mejorarla.",
+  "privacy": "Esta página no usa cookies, no cuenta a nadie y no carga nada de otros servidores.",
+  "languages": "Idiomas"
+}

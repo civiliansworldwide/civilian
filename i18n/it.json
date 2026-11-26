@@ -1,0 +1,40 @@
+{
+  "lang": "it",
+  "name": "Italiano",
+  "dir": "ltr",
+  "word": "CIVILE",
+  "tag": "#IAmACivilian",
+  "title": "Siamo solo civili.",
+  "sub": "E forse basta.",
+  "intro": [
+    "Guerre, crisi climatica, paura. A volte ci si sente dei nessuno che guardano tutto andare in pezzi.",
+    "Ma noi nessuno siamo i più. Non portiamo divise. Non prendiamo parte contro altre persone. Proprio per questo possiamo fare ciò che nessun governo e nessun esercito può: <strong>metterci in cammino insieme, senza bandiera e senza nemico.</strong>"
+  ],
+  "claim": "Siamo civili. Siamo la maggioranza dell’umanità. E siamo noi a decidere cosa succede dopo.",
+  "h_believe": "Ciò in cui crediamo",
+  "charter": [
+    "Non voglio la guerra. E credo che anche le persone dall’altra parte non la vogliano.",
+    "Ogni bambino ha il diritto di crescere senza paura delle bombe.",
+    "I civili, da qualunque parte, non devono mai essere bersaglio della violenza.",
+    "Non prendo parte contro le persone. Prendo la parte della vita.",
+    "Apro la mia porta, la mia tavola e il mio ascolto a chi è in cammino.",
+    "Faccio un passo, grande o piccolo quanto posso.",
+    "Da solo non salverò il mondo. Ma insieme non siamo costretti a non fare nulla."
+  ],
+  "h_do": "Cosa puoi fare",
+  "steps": [
+    "<strong>Scrivilo:</strong> la parola {word}, a mano, e appendila alla finestra.",
+    "<strong>Esci sulla porta:</strong> già oggi, e il 21 settembre, Giornata internazionale della pace, col gesso davanti a casa.",
+    "<strong>Mostralo:</strong> fotografa la parola e condividila con {tag}.",
+    "<strong>Sii una porta aperta</strong> o cammina una tappa: un bar, un caffè, una sala di quartiere o una cucina. Un bicchiere d’acqua per chi passa."
+  ],
+  "note": "Tutto funziona in forma anonima. Niente volto, niente nome. Nessuno deve mettersi in pericolo per questo segno. Un foglio tenuto in un cassetto conta allo stesso modo.",
+  "h_write": "Questo testo non è di nessuno",
+  "write": "Tutto qui è una bozza. Cancella ciò che ti disturba e aggiungi ciò che manca. La prossima versione conterrà le tue parole.",
+  "btn_pad": "Scrivi con noi (senza account)",
+  "h_not": "Ciò che non siamo",
+  "not": "Nessun partito. Nessuna religione. Nessuna bandiera. Niente soldi. Non siamo contro nessuno. Non sostituiamo nessuna organizzazione che già lavora per la pace; vogliamo portare le persone verso di loro.",
+  "draft": "Questa traduzione è una bozza. Aiutaci a migliorarla.",
+  "privacy": "Questa pagina non usa cookie, non conta nessuno e non carica nulla da altri server.",
+  "languages": "Lingue"
+}

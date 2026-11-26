@@ -1,0 +1,40 @@
+{
+  "lang": "de",
+  "name": "Deutsch",
+  "dir": "ltr",
+  "word": "ZIVILIST",
+  "tag": "#IchBinZivilist",
+  "title": "Wir sind nur Zivilisten.",
+  "sub": "Und vielleicht reicht das.",
+  "intro": [
+    "Kriege, Klimakrise, Angst. Manchmal fühlt man sich wie ein Niemand, der zuschaut, wie alles zerbricht.",
+    "Aber wir Niemande sind die meisten. Wir tragen keine Uniform. Wir haben keine Seite gegen andere Menschen. Gerade deshalb können wir etwas, was keine Regierung und keine Armee kann: <strong>gemeinsam losgehen, ohne Fahne und ohne Feind.</strong>"
+  ],
+  "claim": "Wir sind Zivilisten. Wir sind die Mehrheit der Menschheit. Und wir bestimmen, wie es weitergeht.",
+  "h_believe": "Was wir glauben",
+  "charter": [
+    "Ich will keinen Krieg. Und ich glaube den Menschen auf der anderen Seite, dass sie auch keinen wollen.",
+    "Jedes Kind hat das Recht, ohne Angst vor Bomben aufzuwachsen.",
+    "Zivilisten, egal auf welcher Seite, dürfen niemals Ziel von Gewalt sein.",
+    "Ich wähle keine Seite gegen Menschen. Ich wähle die Seite des Lebens.",
+    "Ich öffne meine Tür, meinen Tisch und mein Ohr für die, die unterwegs sind.",
+    "Ich gehe einen Schritt, so groß oder so klein, wie ich kann.",
+    "Ich rette nicht allein die Welt. Aber zusammen müssen wir nicht nichts tun."
+  ],
+  "h_do": "Was du tun kannst",
+  "steps": [
+    "<strong>Schreib es:</strong> das Wort {word}, mit der Hand, und häng es ins Fenster.",
+    "<strong>Geh vor die Tür:</strong> heute schon, und am 21. September, dem Weltfriedenstag, mit Kreide vor deiner Haustür.",
+    "<strong>Zeig es:</strong> Fotografier das Wort und teile es mit {tag}.",
+    "<strong>Sei eine offene Tür</strong> oder geh eine Etappe: Kneipe, Café, Gemeindehaus oder Küche. Ein Glas Wasser für die, die vorbeikommen."
+  ],
+  "note": "Alles geht anonym. Kein Gesicht, kein Name. Niemand soll sich für dieses Zeichen in Gefahr bringen. Ein Zettel in der Schublade zählt genauso.",
+  "h_write": "Dieser Text gehört niemandem",
+  "write": "Alles hier ist ein Entwurf. Streich, was dich stört, und ergänze, was fehlt. Die nächste Fassung enthält deine Worte.",
+  "btn_pad": "Mitschreiben (ohne Konto)",
+  "h_not": "Was wir nicht sind",
+  "not": "Keine Partei. Keine Religion. Keine Fahne. Kein Geld. Wir sind gegen niemanden. Wir ersetzen keine Organisation, die schon Frieden macht, wir wollen Menschen zu ihnen hinführen.",
+  "draft": "",
+  "privacy": "Diese Seite setzt keine Cookies, zählt niemanden und lädt nichts von fremden Servern.",
+  "languages": "Sprachen"
+}

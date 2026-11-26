@@ -1,0 +1,37 @@
+{
+  "lang": "sw", "name": "Kiswahili", "dir": "ltr",
+  "word": "RAIA", "tag": "#IAmACivilian",
+  "title": "Sisi ni raia tu.",
+  "sub": "Na huenda hilo linatosha.",
+  "intro": [
+    "Vita, mgogoro wa tabianchi, hofu. Wakati mwingine mtu hujiona si kitu, akitazama tu kila kitu kikiporomoka.",
+    "Lakini sisi tusio kitu ndio wengi. Hatuvai sare za kijeshi. Hatuegemei upande wowote dhidi ya binadamu wengine. Ndiyo maana tunaweza kufanya kile ambacho hakuna serikali wala jeshi linaloweza: <strong>kuanza safari pamoja, bila bendera na bila adui.</strong>"
+  ],
+  "claim": "Sisi ni raia. Sisi ndio wengi wa wanadamu wote. Na sisi ndio tunaoamua kitakachotokea baadaye.",
+  "h_believe": "Tunachoamini",
+  "charter": [
+    "Sitaki vita. Na ninaamini watu wa upande mwingine nao hawataki vita.",
+    "Kila mtoto ana haki ya kukua bila hofu ya mabomu.",
+    "Raia, wa upande wowote ule, hawapaswi kamwe kulengwa na vurugu.",
+    "Siegemei upande wowote dhidi ya watu. Ninaegemea upande wa uhai.",
+    "Ninafungua mlango wangu, meza yangu na sikio langu kwa walio safarini.",
+    "Ninapiga hatua moja, kubwa au ndogo kadiri ninavyoweza.",
+    "Peke yangu sitaokoa dunia. Lakini pamoja hatulazimiki kukaa bila kufanya lolote."
+  ],
+  "h_do": "Unachoweza kufanya",
+  "steps": [
+    "<strong>Iandike:</strong> neno {word} kwa mkono wako, na ulibandike dirishani.",
+    "<strong>Toka mlangoni:</strong> kuanzia leo, na tarehe 21 Septemba, Siku ya Kimataifa ya Amani, kwa chaki mbele ya mlango wako.",
+    "<strong>Lionyeshe:</strong> piga picha ya neno hilo na uishiriki kwa {tag}.",
+    "<strong>Kuwa mlango ulio wazi</strong> au tembea hatua moja ya safari: baa, mkahawa, ukumbi wa mtaa au jikoni. Glasi ya maji kwa wapita njia."
+  ],
+  "note": "Kila kitu kinaweza kufanyika bila kujitambulisha. Bila uso, bila jina. Hakuna anayepaswa kujiweka hatarini kwa ajili ya ishara hii. Karatasi iliyohifadhiwa kwenye droo nayo ina thamani ileile.",
+  "h_write": "Maandishi haya si mali ya mtu yeyote",
+  "write": "Kila kitu hapa ni rasimu. Futa kinachokukera na ongeza kinachokosekana. Toleo lijalo litakuwa na maneno yako.",
+  "btn_pad": "Andika nasi (bila akaunti)",
+  "h_not": "Sisi si nini",
+  "not": "Hakuna chama. Hakuna dini. Hakuna bendera. Hakuna pesa. Hatumpingi mtu yeyote. Hatuchukui nafasi ya shirika lolote linalofanya kazi ya amani; tunataka kuwaongoza watu kwao.",
+  "draft": "Tafsiri hii ni rasimu. Tusaidie kuiboresha.",
+  "privacy": "Ukurasa huu hautumii vidakuzi, haumhesabu mtu yeyote na haupakii chochote kutoka seva nyingine.",
+  "languages": "Lugha"
+}

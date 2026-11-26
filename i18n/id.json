@@ -1,0 +1,37 @@
+{
+  "lang": "id", "name": "Bahasa Indonesia", "dir": "ltr",
+  "word": "WARGA SIPIL", "tag": "#IAmACivilian",
+  "title": "Kami hanyalah warga sipil.",
+  "sub": "Dan mungkin itu sudah cukup.",
+  "intro": [
+    "Perang, krisis iklim, rasa takut. Kadang kita merasa bukan siapa-siapa, hanya menyaksikan semuanya runtuh.",
+    "Tetapi kami yang bukan siapa-siapa inilah mayoritas. Kami tidak berseragam. Kami tidak memihak siapa pun untuk melawan sesama manusia. Justru karena itu kami bisa melakukan apa yang tidak bisa dilakukan pemerintah atau tentara mana pun: <strong>berjalan bersama, tanpa bendera dan tanpa musuh.</strong>"
+  ],
+  "claim": "Kami warga sipil. Kami adalah mayoritas umat manusia. Dan kamilah yang menentukan apa yang terjadi selanjutnya.",
+  "h_believe": "Yang kami yakini",
+  "charter": [
+    "Saya tidak menginginkan perang. Dan saya percaya orang-orang di pihak lain juga tidak menginginkannya.",
+    "Setiap anak berhak tumbuh tanpa takut akan bom.",
+    "Warga sipil, di pihak mana pun, tidak boleh menjadi sasaran kekerasan.",
+    "Saya tidak memihak siapa pun untuk melawan manusia. Saya memihak kehidupan.",
+    "Saya membuka pintu, meja makan, dan telinga saya bagi mereka yang sedang dalam perjalanan.",
+    "Saya melangkah, sebesar atau sekecil yang saya mampu.",
+    "Saya sendiri tidak akan menyelamatkan dunia. Tetapi bersama-sama kita tidak harus berdiam diri."
+  ],
+  "h_do": "Yang bisa kamu lakukan",
+  "steps": [
+    "<strong>Tuliskan:</strong> kata {word} dengan tanganmu sendiri, lalu pasang di jendelamu.",
+    "<strong>Keluarlah ke depan pintu:</strong> mulai hari ini, dan pada 21 September, Hari Perdamaian Internasional, dengan kapur di depan rumahmu.",
+    "<strong>Tunjukkan:</strong> potret kata itu dan bagikan dengan {tag}.",
+    "<strong>Jadilah pintu yang terbuka</strong> atau berjalanlah satu etape: warung, kafe, balai warga, atau dapur. Segelas air bagi yang lewat."
+  ],
+  "note": "Semuanya bisa dilakukan secara anonim. Tanpa wajah, tanpa nama. Tak seorang pun boleh membahayakan diri demi tanda ini. Selembar kertas yang disimpan di laci pun sama berartinya.",
+  "h_write": "Teks ini bukan milik siapa pun",
+  "write": "Semua yang ada di sini adalah draf. Coret yang mengganggumu dan tambahkan yang kurang. Versi berikutnya akan memuat kata-katamu.",
+  "btn_pad": "Menulis bersama (tanpa akun)",
+  "h_not": "Kami bukan apa",
+  "not": "Bukan partai. Bukan agama. Tanpa bendera. Tanpa uang. Kami tidak melawan siapa pun. Kami tidak menggantikan organisasi mana pun yang sudah bekerja untuk perdamaian; kami ingin mengantar orang kepada mereka.",
+  "draft": "Terjemahan ini masih draf. Bantu kami memperbaikinya.",
+  "privacy": "Halaman ini tidak memakai cookie, tidak menghitung siapa pun, dan tidak memuat apa pun dari server lain.",
+  "languages": "Bahasa"
+}

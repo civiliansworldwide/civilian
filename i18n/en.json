@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "name": "English",
+  "dir": "ltr",
+  "word": "CIVILIAN",
+  "tag": "#IAmACivilian",
+  "title": "We are just civilians.",
+  "sub": "And maybe that is enough.",
+  "intro": [
+    "Wars, climate crisis, fear. Sometimes you feel like a nobody, watching everything fall apart.",
+    "But we nobodies are the many. We wear no uniform. We take no side against other people. That is exactly why we can do something no government and no army can: <strong>set out together, with no flag and no enemy.</strong>"
+  ],
+  "claim": "We are civilians. We are the majority of humankind. And we decide what happens next.",
+  "h_believe": "What we believe",
+  "charter": [
+    "I don't want war. And I believe the people on the other side don't want it either.",
+    "Every child has the right to grow up without fear of bombs.",
+    "Civilians, on any side, must never be targets of violence.",
+    "I take no side against people. I take the side of life.",
+    "I open my door, my table and my ear to those on the road.",
+    "I take a step, as big or as small as I can.",
+    "I alone won't save the world. But together we don't have to do nothing."
+  ],
+  "h_do": "What you can do",
+  "steps": [
+    "<strong>Write it:</strong> the word {word}, by hand, and put it in your window.",
+    "<strong>Step outside:</strong> today, and on 21 September, the International Day of Peace, in chalk at your door.",
+    "<strong>Show it:</strong> take a photo of the word and share it with {tag}.",
+    "<strong>Be an open door</strong> or walk a stage: a pub, a café, a community hall or a kitchen. A glass of water for those passing by."
+  ],
+  "note": "Everything works anonymously. No face, no name. Nobody should put themselves in danger for this sign. A note kept in a drawer counts just as much.",
+  "h_write": "This text belongs to no one",
+  "write": "Everything here is a draft. Cross out what bothers you and add what is missing. The next version will contain your words.",
+  "btn_pad": "Write along (no account)",
+  "h_not": "What we are not",
+  "not": "No party. No religion. No flag. No money. We are against no one. We replace no organisation that already works for peace; we want to lead people to them.",
+  "draft": "This translation is a draft. Help us improve it.",
+  "privacy": "This page sets no cookies, counts no one and loads nothing from other servers.",
+  "languages": "Languages"
+}

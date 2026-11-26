@@ -1,0 +1,40 @@
+{
+  "lang": "pt",
+  "name": "Português",
+  "dir": "ltr",
+  "word": "CIVIL",
+  "tag": "#IAmACivilian",
+  "title": "Somos apenas civis.",
+  "sub": "E talvez isso baste.",
+  "intro": [
+    "Guerras, crise climática, medo. Às vezes sentimo-nos uns ninguéns, a ver tudo desmoronar.",
+    "Mas nós, os ninguéns, somos a maioria. Não usamos farda. Não tomamos partido contra outras pessoas. É exatamente por isso que podemos fazer o que nenhum governo e nenhum exército consegue: <strong>pôr-nos a caminho juntos, sem bandeira e sem inimigo.</strong>"
+  ],
+  "claim": "Somos civis. Somos a maioria da humanidade. E somos nós que decidimos o que vem a seguir.",
+  "h_believe": "Aquilo em que acreditamos",
+  "charter": [
+    "Eu não quero a guerra. E acredito que as pessoas do outro lado também não a querem.",
+    "Toda criança tem o direito de crescer sem medo das bombas.",
+    "Os civis, de qualquer lado, nunca podem ser alvo de violência.",
+    "Não tomo partido contra pessoas. Tomo o partido da vida.",
+    "Abro a minha porta, a minha mesa e os meus ouvidos a quem está de passagem.",
+    "Dou um passo, tão grande ou tão pequeno quanto puder.",
+    "Sozinho não salvo o mundo. Mas juntos não temos de ficar sem fazer nada."
+  ],
+  "h_do": "O que podes fazer",
+  "steps": [
+    "<strong>Escreve:</strong> a palavra {word}, à mão, e põe-na na tua janela.",
+    "<strong>Vem à porta:</strong> já hoje, e a 21 de setembro, Dia Internacional da Paz, a giz à frente da tua casa.",
+    "<strong>Mostra:</strong> fotografa a palavra e partilha-a com {tag}.",
+    "<strong>Sê uma porta aberta</strong> ou caminha uma etapa: um bar, um café, um salão comunitário ou uma cozinha. Um copo de água para quem passa."
+  ],
+  "note": "Tudo funciona de forma anónima. Sem rosto, sem nome. Ninguém deve pôr-se em perigo por este sinal. Um papel guardado numa gaveta conta da mesma maneira.",
+  "h_write": "Este texto não é de ninguém",
+  "write": "Tudo aqui é um rascunho. Risca o que te incomoda e acrescenta o que falta. A próxima versão terá as tuas palavras.",
+  "btn_pad": "Escrever connosco (sem conta)",
+  "h_not": "O que não somos",
+  "not": "Nenhum partido. Nenhuma religião. Nenhuma bandeira. Nenhum dinheiro. Não somos contra ninguém. Não substituímos nenhuma organização que já trabalha pela paz; queremos levar as pessoas até elas.",
+  "draft": "Esta tradução é um rascunho. Ajuda-nos a melhorá-la.",
+  "privacy": "Esta página não usa cookies, não conta ninguém e não carrega nada de outros servidores.",
+  "languages": "Línguas"
+}

@@ -18,3 +18,15 @@ HTML erzeugen:
 ----
 asciidoctor -a webfonts! konzept.adoc
 ----
+
+== Mehrsprachige Webseite
+
+Die Texte der Webseite liegen in `i18n/<sprache>.json` (24 Sprachen). Daraus erzeugt
+
+----
+python3 -I tools/build_site.py
+----
+
+die Startseite (`index.html`, Sprachauswahl), je Sprache `<sprache>/index.html` und `assets/site.css`.
+Die erzeugten HTML-Dateien nie direkt ändern, sondern die JSON-Datei und dann neu erzeugen.
+Alle Übersetzungen außer Deutsch sind Entwürfe: Korrekturen von Muttersprachlern sind willkommen.

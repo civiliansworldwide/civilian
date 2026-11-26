@@ -1,0 +1,40 @@
+{
+  "lang": "tr",
+  "name": "Türkçe",
+  "dir": "ltr",
+  "word": "SİVİL",
+  "tag": "#IAmACivilian",
+  "title": "Biz sadece siviliz.",
+  "sub": "Ve belki bu yeter.",
+  "intro": [
+    "Savaşlar, iklim krizi, korku. İnsan bazen her şeyin parçalanışını seyreden bir hiç gibi hissediyor.",
+    "Ama biz hiçler çoğunluğuz. Üniforma giymiyoruz. Başka insanlara karşı kimsenin tarafını tutmuyoruz. İşte tam da bu yüzden hiçbir hükümetin ve hiçbir ordunun yapamadığını yapabiliriz: <strong>bayraksız ve düşmansız, birlikte yola çıkmak.</strong>"
+  ],
+  "claim": "Biz siviliz. İnsanlığın çoğunluğu biziz. Ve bundan sonra ne olacağına biz karar veririz.",
+  "h_believe": "Neye inanıyoruz",
+  "charter": [
+    "Savaş istemiyorum. Ve karşı taraftaki insanların da istemediğine inanıyorum.",
+    "Her çocuğun bomba korkusu olmadan büyüme hakkı vardır.",
+    "Hangi tarafta olursa olsun siviller asla şiddetin hedefi olmamalıdır.",
+    "İnsanlara karşı taraf tutmuyorum. Hayatın tarafını tutuyorum.",
+    "Kapımı, soframı ve kulağımı yolda olanlara açıyorum.",
+    "Bir adım atıyorum; gücüm ne kadar büyük ya da küçük bir adıma yetiyorsa.",
+    "Dünyayı tek başıma kurtaramam. Ama birlikte hiçbir şey yapmadan durmak zorunda değiliz."
+  ],
+  "h_do": "Neler yapabilirsin",
+  "steps": [
+    "<strong>Yaz:</strong> {word} kelimesini elle yaz ve pencerene as.",
+    "<strong>Kapının önüne çık:</strong> bugünden itibaren, ve 21 Eylül Dünya Barış Günü’nde, kapının önüne tebeşirle.",
+    "<strong>Göster:</strong> kelimenin fotoğrafını çek ve {tag} ile paylaş.",
+    "<strong>Açık bir kapı ol</strong> ya da bir etap yürü: bir meyhane, bir kafe, bir mahalle salonu ya da bir mutfak. Yoldan geçenlere bir bardak su."
+  ],
+  "note": "Her şey anonim olabilir. Yüz yok, isim yok. Kimse bu işaret için kendini tehlikeye atmamalı. Çekmecede saklanan bir kâğıt da aynı değerdedir.",
+  "h_write": "Bu metin kimseye ait değil",
+  "write": "Buradaki her şey bir taslak. Seni rahatsız edeni çiz, eksik olanı ekle. Bir sonraki sürüm senin sözlerini de içerecek.",
+  "btn_pad": "Birlikte yaz (hesap gerekmez)",
+  "h_not": "Ne değiliz",
+  "not": "Parti yok. Din yok. Bayrak yok. Para yok. Kimseye karşı değiliz. Zaten barış için çalışan hiçbir kuruluşun yerini almıyoruz; insanları onlara yönlendirmek istiyoruz.",
+  "draft": "Bu çeviri bir taslaktır. Geliştirmemize yardım et.",
+  "privacy": "Bu sayfa çerez kullanmaz, kimseyi saymaz ve başka sunuculardan hiçbir şey yüklemez.",
+  "languages": "Diller"
+}

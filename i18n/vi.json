@@ -1,0 +1,37 @@
+{
+  "lang": "vi", "name": "Tiếng Việt", "dir": "ltr",
+  "word": "DÂN THƯỜNG", "tag": "#IAmACivilian",
+  "title": "Chúng ta chỉ là dân thường.",
+  "sub": "Và có lẽ thế là đủ.",
+  "intro": [
+    "Chiến tranh, khủng hoảng khí hậu, nỗi sợ. Đôi khi ta thấy mình chẳng là ai cả, chỉ đứng nhìn mọi thứ đổ vỡ.",
+    "Nhưng chúng ta, những người chẳng là ai, lại là số đông. Chúng ta không mặc quân phục. Chúng ta không đứng về phe nào để chống lại người khác. Chính vì vậy chúng ta làm được điều mà không chính phủ hay quân đội nào làm được: <strong>cùng nhau lên đường, không cờ và không kẻ thù.</strong>"
+  ],
+  "claim": "Chúng ta là dân thường. Chúng ta là số đông của nhân loại. Và chính chúng ta quyết định điều gì sẽ xảy ra tiếp theo.",
+  "h_believe": "Điều chúng ta tin",
+  "charter": [
+    "Tôi không muốn chiến tranh. Và tôi tin rằng những người ở phía bên kia cũng không muốn.",
+    "Mọi đứa trẻ đều có quyền lớn lên mà không sợ bom đạn.",
+    "Dân thường, dù ở phía nào, không bao giờ được trở thành mục tiêu của bạo lực.",
+    "Tôi không đứng về phe nào để chống lại con người. Tôi đứng về phía sự sống.",
+    "Tôi mở cửa, mở mâm cơm và lắng nghe những người đang trên đường.",
+    "Tôi bước một bước, lớn hay nhỏ tùy sức mình.",
+    "Một mình tôi không cứu được thế giới. Nhưng cùng nhau, chúng ta không cần phải khoanh tay đứng nhìn."
+  ],
+  "h_do": "Bạn có thể làm gì",
+  "steps": [
+    "<strong>Viết ra:</strong> chữ {word} bằng tay, rồi dán lên cửa sổ.",
+    "<strong>Bước ra cửa:</strong> ngay từ hôm nay, và vào ngày 21 tháng 9, Ngày Quốc tế Hòa bình, viết bằng phấn trước cửa nhà.",
+    "<strong>Cho mọi người thấy:</strong> chụp ảnh chữ ấy và chia sẻ với {tag}.",
+    "<strong>Hãy là một cánh cửa rộng mở</strong> hoặc đi một chặng đường: quán nhậu, quán cà phê, nhà văn hóa hay gian bếp. Một cốc nước cho người qua đường."
+  ],
+  "note": "Mọi thứ đều có thể làm ẩn danh. Không cần khuôn mặt, không cần tên. Không ai nên tự đặt mình vào nguy hiểm vì dấu hiệu này. Một mảnh giấy cất trong ngăn kéo cũng có giá trị như vậy.",
+  "h_write": "Văn bản này không thuộc về ai",
+  "write": "Mọi thứ ở đây đều là bản nháp. Gạch đi điều làm bạn khó chịu và thêm điều còn thiếu. Phiên bản sau sẽ có lời của bạn.",
+  "btn_pad": "Cùng viết (không cần tài khoản)",
+  "h_not": "Chúng ta không phải là gì",
+  "not": "Không đảng phái. Không tôn giáo. Không cờ. Không tiền. Chúng ta không chống lại ai. Chúng ta không thay thế tổ chức nào đang làm việc vì hòa bình; chúng ta muốn dẫn mọi người đến với họ.",
+  "draft": "Bản dịch này là bản nháp. Hãy giúp chúng tôi hoàn thiện nó.",
+  "privacy": "Trang này không dùng cookie, không đếm ai và không tải gì từ máy chủ khác.",
+  "languages": "Ngôn ngữ"
+}
