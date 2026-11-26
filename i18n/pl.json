@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Napisz to:</strong> słowo {word}, odręcznie, i powieś je w oknie.",
     "<strong>Wyjdź przed dom:</strong> już dziś, a 21 września, w Międzynarodowy Dzień Pokoju, kredą przed swoimi drzwiami.",
-    "<strong>Pokaż to:</strong> zrób zdjęcie słowa i udostępnij je z {tag}.",
+    "<strong>Pokaż to:</strong> zrób zdjęcie słowa i udostępnij je z {tag}. Bez twarzy, bez miejsca.",
     "<strong>Bądź otwartymi drzwiami</strong> albo przejdź etap: pub, kawiarnia, świetlica lub kuchnia. Szklanka wody dla przechodzących."
   ],
-  "note": "Wszystko działa anonimowo. Bez twarzy, bez nazwiska. Nikt nie powinien narażać się dla tego znaku. Kartka schowana w szufladzie liczy się tak samo.",
+  "note": "Bezpieczeństwo przede wszystkim: słowo w oknie lub przed drzwiami pokazuje, gdzie mieszkasz. Tam, gdzie to niebezpieczne, noś słowo tylko przy sobie, na kartce w kieszeni. To liczy się tak samo. Zdjęcia tylko samego słowa, bez twarzy, a wcześniej wyłącz lokalizację aparatu. Nikt nie powinien narażać się dla tego znaku.",
   "h_write": "Ten tekst nie należy do nikogo",
   "write": "Wszystko tutaj jest szkicem. Skreśl, co ci przeszkadza, i dopisz, czego brakuje. Następna wersja będzie zawierać twoje słowa.",
   "btn_pad": "Pisz z nami (bez konta)",

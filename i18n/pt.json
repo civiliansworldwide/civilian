@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Escreve:</strong> a palavra {word}, à mão, e põe-na na tua janela.",
     "<strong>Vem à porta:</strong> já hoje, e a 21 de setembro, Dia Internacional da Paz, a giz à frente da tua casa.",
-    "<strong>Mostra:</strong> fotografa a palavra e partilha-a com {tag}.",
+    "<strong>Mostra:</strong> fotografa a palavra e partilha-a com {tag}. Sem rosto, sem localização.",
     "<strong>Sê uma porta aberta</strong> ou caminha uma etapa: um bar, um café, um salão comunitário ou uma cozinha. Um copo de água para quem passa."
   ],
-  "note": "Tudo funciona de forma anónima. Sem rosto, sem nome. Ninguém deve pôr-se em perigo por este sinal. Um papel guardado numa gaveta conta da mesma maneira.",
+  "note": "Segurança primeiro: uma palavra na janela ou à porta mostra onde moras. Onde isso for perigoso, guarda a palavra só contigo, num papel no bolso. Conta da mesma maneira. Fotos só da palavra, sem rosto, e desliga antes a localização da câmara. Ninguém deve pôr-se em perigo por este sinal.",
   "h_write": "Este texto não é de ninguém",
   "write": "Tudo aqui é um rascunho. Risca o que te incomoda e acrescenta o que falta. A próxima versão terá as tuas palavras.",
   "btn_pad": "Escrever connosco (sem conta)",

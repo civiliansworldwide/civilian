@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Write it:</strong> the word {word}, by hand, and put it in your window.",
     "<strong>Step outside:</strong> today, and on 21 September, the International Day of Peace, in chalk at your door.",
-    "<strong>Show it:</strong> take a photo of the word and share it with {tag}.",
+    "<strong>Show it:</strong> take a photo of the word and share it with {tag}. No face, no location.",
     "<strong>Be an open door</strong> or walk a stage: a pub, a café, a community hall or a kitchen. A glass of water for those passing by."
   ],
-  "note": "Everything works anonymously. No face, no name. Nobody should put themselves in danger for this sign. A note kept in a drawer counts just as much.",
+  "note": "Safety first: a word in your window or at your door shows where you live. Where that is dangerous, keep the word only with you, as a note in your pocket. That counts just as much. Photos of the word only, no face, and switch off your camera's location first. Nobody should put themselves in danger for this sign.",
   "h_write": "This text belongs to no one",
   "write": "Everything here is a draft. Cross out what bothers you and add what is missing. The next version will contain your words.",
   "btn_pad": "Write along (no account)",

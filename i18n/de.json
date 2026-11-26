@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Schreib es:</strong> das Wort {word}, mit der Hand, und häng es ins Fenster.",
     "<strong>Geh vor die Tür:</strong> heute schon, und am 21. September, dem Weltfriedenstag, mit Kreide vor deiner Haustür.",
-    "<strong>Zeig es:</strong> Fotografier das Wort und teile es mit {tag}.",
+    "<strong>Zeig es:</strong> Fotografier das Wort und teile es mit {tag}. Ohne Gesicht, ohne Ort.",
     "<strong>Sei eine offene Tür</strong> oder geh eine Etappe: Kneipe, Café, Gemeindehaus oder Küche. Ein Glas Wasser für die, die vorbeikommen."
   ],
-  "note": "Alles geht anonym. Kein Gesicht, kein Name. Niemand soll sich für dieses Zeichen in Gefahr bringen. Ein Zettel in der Schublade zählt genauso.",
+  "note": "Sicherheit zuerst: Ein Wort im Fenster oder vor der Tür zeigt, wo du wohnst. Wo das gefährlich ist, trag das Wort nur bei dir, als Zettel in der Tasche. Das zählt genauso. Fotos nur vom Wort, ohne Gesicht, und vorher den Standort der Kamera ausschalten. Niemand soll sich für dieses Zeichen in Gefahr bringen.",
   "h_write": "Dieser Text gehört niemandem",
   "write": "Alles hier ist ein Entwurf. Streich, was dich stört, und ergänze, was fehlt. Die nächste Fassung enthält deine Worte.",
   "btn_pad": "Mitschreiben (ohne Konto)",

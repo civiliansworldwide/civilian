@@ -1,6 +1,9 @@
 {
-  "lang": "id", "name": "Bahasa Indonesia", "dir": "ltr",
-  "word": "WARGA SIPIL", "tag": "#IAmACivilian",
+  "lang": "id",
+  "name": "Bahasa Indonesia",
+  "dir": "ltr",
+  "word": "WARGA SIPIL",
+  "tag": "#IAmACivilian",
   "title": "Kami hanyalah warga sipil.",
   "sub": "Dan mungkin itu sudah cukup.",
   "intro": [
@@ -22,10 +25,10 @@
   "steps": [
     "<strong>Tuliskan:</strong> kata {word} dengan tanganmu sendiri, lalu pasang di jendelamu.",
     "<strong>Keluarlah ke depan pintu:</strong> mulai hari ini, dan pada 21 September, Hari Perdamaian Internasional, dengan kapur di depan rumahmu.",
-    "<strong>Tunjukkan:</strong> potret kata itu dan bagikan dengan {tag}.",
+    "<strong>Tunjukkan:</strong> potret kata itu dan bagikan dengan {tag}. Tanpa wajah, tanpa lokasi.",
     "<strong>Jadilah pintu yang terbuka</strong> atau berjalanlah satu etape: warung, kafe, balai warga, atau dapur. Segelas air bagi yang lewat."
   ],
-  "note": "Semuanya bisa dilakukan secara anonim. Tanpa wajah, tanpa nama. Tak seorang pun boleh membahayakan diri demi tanda ini. Selembar kertas yang disimpan di laci pun sama berartinya.",
+  "note": "Keamanan lebih dulu: kata di jendela atau di depan pintu menunjukkan di mana kamu tinggal. Di tempat yang berbahaya, simpan kata itu hanya untukmu sendiri, di selembar kertas dalam saku. Itu sama berartinya. Foto hanya katanya, tanpa wajah, dan matikan dulu lokasi kamera. Tak seorang pun boleh membahayakan diri demi tanda ini.",
   "h_write": "Teks ini bukan milik siapa pun",
   "write": "Semua yang ada di sini adalah draf. Coret yang mengganggumu dan tambahkan yang kurang. Versi berikutnya akan memuat kata-katamu.",
   "btn_pad": "Menulis bersama (tanpa akun)",

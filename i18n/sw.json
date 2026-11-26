@@ -1,6 +1,9 @@
 {
-  "lang": "sw", "name": "Kiswahili", "dir": "ltr",
-  "word": "RAIA", "tag": "#IAmACivilian",
+  "lang": "sw",
+  "name": "Kiswahili",
+  "dir": "ltr",
+  "word": "RAIA",
+  "tag": "#IAmACivilian",
   "title": "Sisi ni raia tu.",
   "sub": "Na huenda hilo linatosha.",
   "intro": [
@@ -22,10 +25,10 @@
   "steps": [
     "<strong>Iandike:</strong> neno {word} kwa mkono wako, na ulibandike dirishani.",
     "<strong>Toka mlangoni:</strong> kuanzia leo, na tarehe 21 Septemba, Siku ya Kimataifa ya Amani, kwa chaki mbele ya mlango wako.",
-    "<strong>Lionyeshe:</strong> piga picha ya neno hilo na uishiriki kwa {tag}.",
+    "<strong>Lionyeshe:</strong> piga picha ya neno hilo na uishiriki kwa {tag}. Bila uso, bila mahali.",
     "<strong>Kuwa mlango ulio wazi</strong> au tembea hatua moja ya safari: baa, mkahawa, ukumbi wa mtaa au jikoni. Glasi ya maji kwa wapita njia."
   ],
-  "note": "Kila kitu kinaweza kufanyika bila kujitambulisha. Bila uso, bila jina. Hakuna anayepaswa kujiweka hatarini kwa ajili ya ishara hii. Karatasi iliyohifadhiwa kwenye droo nayo ina thamani ileile.",
+  "note": "Usalama kwanza: neno dirishani au mbele ya mlango huonyesha unapoishi. Mahali ambapo hilo ni hatari, beba neno hilo peke yako, kwenye karatasi mfukoni. Hilo lina thamani ileile. Piga picha ya neno tu, bila uso, na kwanza zima mahali (location) kwenye kamera. Hakuna anayepaswa kujiweka hatarini kwa ajili ya ishara hii.",
   "h_write": "Maandishi haya si mali ya mtu yeyote",
   "write": "Kila kitu hapa ni rasimu. Futa kinachokukera na ongeza kinachokosekana. Toleo lijalo litakuwa na maneno yako.",
   "btn_pad": "Andika nasi (bila akaunti)",

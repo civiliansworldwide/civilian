@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Scrivilo:</strong> la parola {word}, a mano, e appendila alla finestra.",
     "<strong>Esci sulla porta:</strong> già oggi, e il 21 settembre, Giornata internazionale della pace, col gesso davanti a casa.",
-    "<strong>Mostralo:</strong> fotografa la parola e condividila con {tag}.",
+    "<strong>Mostralo:</strong> fotografa la parola e condividila con {tag}. Senza volto, senza luogo.",
     "<strong>Sii una porta aperta</strong> o cammina una tappa: un bar, un caffè, una sala di quartiere o una cucina. Un bicchiere d’acqua per chi passa."
   ],
-  "note": "Tutto funziona in forma anonima. Niente volto, niente nome. Nessuno deve mettersi in pericolo per questo segno. Un foglio tenuto in un cassetto conta allo stesso modo.",
+  "note": "Prima di tutto la sicurezza: una parola alla finestra o davanti alla porta mostra dove abiti. Dove è pericoloso, tieni la parola solo con te, su un foglio in tasca. Conta allo stesso modo. Foto solo della parola, senza volto, e prima disattiva la posizione della fotocamera. Nessuno deve mettersi in pericolo per questo segno.",
   "h_write": "Questo testo non è di nessuno",
   "write": "Tutto qui è una bozza. Cancella ciò che ti disturba e aggiungi ciò che manca. La prossima versione conterrà le tue parole.",
   "btn_pad": "Scrivi con noi (senza account)",

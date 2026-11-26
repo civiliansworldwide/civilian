@@ -25,10 +25,10 @@
   "steps": [
     "<strong>Écris-le :</strong> le mot {word}, à la main, et mets-le à ta fenêtre.",
     "<strong>Sors sur le pas de ta porte :</strong> dès aujourd’hui, et le 21 septembre, Journée internationale de la paix, à la craie devant chez toi.",
-    "<strong>Montre-le :</strong> photographie le mot et partage-le avec {tag}.",
+    "<strong>Montre-le :</strong> photographie le mot et partage-le avec {tag}. Sans visage, sans lieu.",
     "<strong>Sois une porte ouverte</strong> ou marche une étape : un bistrot, un café, une salle de quartier ou une cuisine. Un verre d’eau pour ceux qui passent."
   ],
-  "note": "Tout fonctionne de façon anonyme. Pas de visage, pas de nom. Personne ne doit se mettre en danger pour ce signe. Un papier gardé dans un tiroir compte tout autant.",
+  "note": "La sécurité d’abord : un mot à ta fenêtre ou devant ta porte montre où tu habites. Là où c’est dangereux, garde le mot sur toi, sur un papier dans ta poche. Cela compte tout autant. Des photos du mot seulement, sans visage, et désactive d’abord la localisation de l’appareil. Personne ne doit se mettre en danger pour ce signe.",
   "h_write": "Ce texte n’appartient à personne",
   "write": "Tout ici est un brouillon. Barre ce qui te dérange et ajoute ce qui manque. La prochaine version contiendra tes mots.",
   "btn_pad": "Écrire avec nous (sans compte)",

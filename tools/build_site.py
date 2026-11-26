@@ -121,7 +121,7 @@ def page(langs, code):
   <ol class="steps">
 {steps}
   </ol>
-  <p class="note">{e(d['note'])}</p>
+  <p class="safety" role="note">{e(d['note'])}</p>
 {pr}
   <h2>{e(d['h_write'])}</h2>
   <p>{e(d['write'])}</p>
@@ -221,6 +221,8 @@ ol.charter li:first-child { font-weight: 700; }
   text-align: center; font-weight: 700; font-size: .85rem; line-height: 1.6rem; }
 .note { border-inline-start: 3px solid var(--line); padding-block: .2rem; padding-inline-start: 1rem;
   color: var(--soft); font-size: .95rem; }
+.safety { border: 2px solid var(--accent); border-radius: 4px; padding: .8rem 1rem; font-size: .97rem;
+  background: color-mix(in srgb, var(--accent) 6%, transparent); }
 a { color: var(--accent); }
 .btns { display: flex; flex-wrap: wrap; gap: .6rem; }
 .btn { display: inline-block; padding: .55rem .9rem; border: 1.5px solid var(--ink); color: var(--ink);
