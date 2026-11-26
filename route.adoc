@@ -73,7 +73,7 @@ Durch die verbrannte Erde zu ziehen und dort Zivilisten einzusammeln, wäre der 
 
 Civilian sammelt deshalb, was sicher wandern kann: *Stimmen*.
 
-* Menschen in Ländern mit 🔴 Reisewarnung schicken anonym ihren Satz, ihren Vornamen und ein Fußfoto von der eigenen Türschwelle.
+* Menschen in Ländern mit 🔴 Reisewarnung schicken anonym ihren Satz, ihren Vornamen und ein Foto des Kreideworts vor der eigenen Tür.
 * Die Staffel trägt diese Stimmen an der nächstgelegenen offenen Grenze entlang, als Seiten im wandernden Buch.
 * An jeder Etappe, die an einer 🔴-Grenze endet, werden die Stimmen von drinnen laut vorgelesen.
 
@@ -224,7 +224,7 @@ Die Hauptroute ist nicht die einzige. *Sternwege* sind kurze Etappen an anderen 
 
 | *Überall*
 | Die eigene Haustür
-| Kreidewort, Fußfoto, Zivilistenpass
+| Kreidewort, Foto vom Wort, Zivilistenpass
 |===
 
 == Zeitplan im Zusammenhang

@@ -103,5 +103,5 @@ ____
 == Online, aber mit Zustimmung
 
 * *Ein Kanal, den man selbst abonniert:* zum Beispiel ein Signal-Kanal oder ein Newsletter mit Bestätigungs-E-Mail (Double Opt-in). Wer sich einträgt, bekommt Neuigkeiten. Wer sich austrägt, bekommt nichts mehr.
-* *Teilen statt Senden:* Fußfotos und Kreidewörter unter einem gemeinsamen Hashtag verbreiten sich über die eigenen Kontakte der Teilnehmer.
+* *Teilen statt Senden:* Fotos von Kreidewörtern und Fensterzetteln unter einem gemeinsamen Hashtag verbreiten sich über die eigenen Kontakte der Teilnehmer.
 * *Kein Kauf und kein Sammeln von Adresslisten.*

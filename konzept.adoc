@@ -188,11 +188,11 @@ Von ganz privat bis ganz öffentlich. Jeder wählt seine Stufe selbst.
 | 1 | *Zivilistenpass* ausfüllen und bei sich tragen | 0 € | man selbst
 | 2 | Zettel ins Fenster hängen: _„Hier wohnt ein Zivilist.“_ | 0 € | Nachbarn
 | 3 | Am 21. September das Wort mit *Kreide* vor die eigene Haustür schreiben | 1 € | die Straße
-| 4 | *Foto* der eigenen Füße auf der Türschwelle neben dem Kreidewort, mit Vorname und Stadt, online teilen | 0 € | die Welt
+| 4 | *Zeig es:* das Kreidewort vor der Tür oder das Wort im Fenster fotografieren und online teilen | 0 € | die Welt
 | 5 | Eine *Etappe* der Staffel gehen oder eine *offene Tür* sein | Zeit | alle unterwegs
 |===
 
-Das Fußfoto ist Absicht: *Kein Gesicht* ist nötig. Damit können auch Menschen mitmachen, für die Sichtbarkeit gefährlich ist.
+Das Foto zeigt nur das Wort: *kein Gesicht, kein Name*. Damit können auch Menschen mitmachen, für die Sichtbarkeit gefährlich ist.
 
 === Der Zivilistenpass
 
@@ -237,7 +237,7 @@ In manchen Ländern ist es strafbar, öffentlich „Ich will keinen Krieg“ zu 
 | Zu wenig Teilnehmer | Erfolg wird nicht an Menschenmassen gemessen. Jede gegangene Etappe und jede offene Tür zählt. Das Buch der Staffel wird mit jeder Etappe dicker.
 | Gefahr für Leib und Leben | Keine Märsche in aktive Kampfgebiete ohne Einladung und professionellen Schutz.
 | Staatliche Blockaden | Etappen enden an Grenzen. Auf der anderen Seite geht es weiter.
-| Strafverfolgung in autoritären Staaten | Alle Stufen funktionieren anonym (Fußfoto, Vorname). Keine Datenspeicherung, die jemanden verraten könnte.
+| Strafverfolgung in autoritären Staaten | Alle Stufen funktionieren anonym (Foto nur vom Wort, Vorname). Keine Datenspeicherung, die jemanden verraten könnte.
 | Belastete Symbole | Kein weißes Tuch, keine Schutzzeichen. Nur das handgeschriebene Wort.
 | Kommerz und Selbstdarstellung | Keine Sponsoren-Logos, kein zentraler Shop und kein Influencer-Marketing.
 |===
