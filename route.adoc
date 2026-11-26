@@ -1,11 +1,11 @@
-= Civilian – Pilgerroute „Der Weg der Nahtstellen“
+= Civilian – Pilgerwege: viele Wege, ein gemeinsamer Tag
 :toc: left
 :toc-title: Inhalt
 :toclevels: 2
 :sectnums:
 :lang: de
 
-Stand: 25.11.2026. Die Lage ändert sich laufend. *Vor jeder Etappe neu prüfen*, mit `tools/reisewarnungen.py` (siehe <<Die Karte der verbrannten Erde>>) und mit den lokalen Partnern.
+Stand: 26.11.2026 (umgestellt auf viele gleichwertige Wege ohne Zentrum). Die Lage ändert sich laufend. *Vor jeder Etappe neu prüfen*, mit `tools/reisewarnungen.py` (siehe <<Die Karte der verbrannten Erde>>) und mit den lokalen Partnern.
 
 Grundlage: link:konzept.adoc[konzept.adoc], link:civilian.adoc[civilian.adoc]
 
@@ -21,7 +21,7 @@ Grundlage: link:konzept.adoc[konzept.adoc], link:civilian.adoc[civilian.adoc]
 
 | *Israel – Gaza*
 | Waffenruhe seit Oktober 2025. Sie ist brüchig, es gibt weiterhin Zwischenfälle. Rafah ist seit Februar 2026 nur eingeschränkt offen, für Personen, nicht für Waren.
-| Endpunkt der Hauptroute ist Jerusalem. Gaza wird nicht betreten. Menschen in Gaza tragen „von innen“.
+| Der Weg Berlin–Levante endet bei Gastgebern beider Seiten. Gaza wird nicht betreten. Menschen in Gaza tragen „von innen“.
 
 | *Iran*
 | Seit dem 28.02.2026 führen die USA und Israel Krieg gegen Iran, Ali Khamenei wurde dabei getötet. Es gibt eine Blockade, Angriffe auf Schiffe in der Straße von Hormus und keine Waffenruhe.
@@ -33,27 +33,27 @@ Grundlage: link:konzept.adoc[konzept.adoc], link:civilian.adoc[civilian.adoc]
 
 | *Myanmar*
 | Bürgerkrieg mit über 1.200 bewaffneten Gruppen (ACLED). Die Wahl Ende 2025/Anfang 2026 gilt international als Scheinwahl.
-| Sternweg an der thailändischen Grenze (Mae Sot) mit Exil-Gemeinschaften.
+| Weg an der thailändischen Grenze (Mae Sot) mit Exil-Gemeinschaften.
 
 | *Ost-Kongo*
 | M23 kontrolliert Goma. Im November 2025 wurde in Doha ein Rahmenabkommen unterzeichnet, gekämpft wird trotzdem weiter. Die Grenze Goma–Rubavu war zuletzt offen (Stand September 2025).
-| Sternweg Goma ↔ Gisenyi, nur lokal getragen.
+| Weg Goma ↔ Gisenyi, nur lokal getragen.
 
 | *Indien – Pakistan*
 | Nach dem Konflikt im Mai 2025 ist Attari–Wagah für den allgemeinen Verkehr geschlossen, und auch der Kartarpur-Korridor ist seit Mai 2025 zu.
-| Sternweg Amritsar ↔ Lahore mit Spiegelgruppen auf beiden Seiten der geschlossenen Grenze.
+| Weg Amritsar ↔ Lahore mit Spiegelgruppen auf beiden Seiten der geschlossenen Grenze.
 
 | *Mexiko*
 | Bei ACLED auf Platz 2 der gefährlichsten Länder, wegen Kartellgewalt. Der Friendship Park an der Grenze zwischen Tijuana und San Diego ist geschlossen (Stand April 2026).
-| Sternweg mit Spiegelgruppen am Grenzzaun.
+| Weg mit Spiegelgruppen am Grenzzaun.
 
 | *Armenien – Aserbaidschan*
 | Der Friedenstext wurde im August 2025 paraphiert, ist aber nicht unterzeichnet. Die Grenzen Armenien–Aserbaidschan und Armenien–Türkei sind geschlossen.
-| Sternweg Kaukasus mit Spiegelgruppen an der geschlossenen Grenze.
+| Weg Kaukasus mit Spiegelgruppen an der geschlossenen Grenze.
 
 | *Zypern* (Lichtblick)
 | Es gibt neun Übergänge an der UN-Pufferzone. Am 09.11.2026 haben sich beide Seiten auf zwei neue Übergänge geeinigt, die ersten seit fast zehn Jahren.
-| Etappe der Hauptroute: Hier zeigt sich, dass Teilung sich öffnen lässt.
+| Etappe des Weges Berlin–Levante: Hier zeigt sich, dass Teilung sich öffnen lässt.
 
 | *Weitere*
 | Syrien, Jemen und das Rote Meer, Sahel, Haiti, Ecuador (ACLED-Watchlist 2026)
@@ -97,12 +97,25 @@ include::lage-aa.adoc[]
 * *Der Pass wandert, nicht unbedingt der Mensch.* Staffelprinzip: Das Buch und die Pässe werden übergeben. Meere und Kriegsgebiete werden per Schiff oder Flug übersprungen.
 * *Jede Etappe hat lokale Gastgeber.* Ohne Einladung vor Ort gibt es keine Etappe.
 
-== Hauptroute: Berlin → Jerusalem
+== Viele Wege, ein gemeinsamer Tag
+
+Civilian hat *kein Zentrum und kein Ziel, an dem alle ankommen müssen*. Eine einzige Hauptroute von Berlin nach Jerusalem würde erzählen, dass Europa der Anfang ist und eine umkämpfte heilige Stadt das Ziel. Beides schließt Menschen aus: im Globalen Süden, wo eine Initiative „aus Deutschland“ schnell wie Bevormundung wirkt, und in Israel und Palästina, wo eine Ankunft in Jerusalem als Stellungnahme gelesen werden kann.
+
+Deshalb gilt:
+
+* *Jeder Weg ist gleich viel wert.* Ein Weg kann überall beginnen, wo Menschen ihn tragen: in einem Dorf in Bihar, an einer Grenze im Kaukasus, in einer Straße in Köln.
+* *Alle Wege haben denselben Tag:* den *21. September*, den Weltfriedenstag. An diesem Tag kommen alle Wege gleichzeitig an, jeder an seinem Ort oder an einer Grenze, an der sich beide Seiten treffen.
+* *Wer keinen Weg gehen kann,* kommt an seiner eigenen Tür an: mit einem Glas Wasser im Fenster.
+* *Die Wege werden nicht von uns geplant,* sondern von den Menschen vor Ort. Civilian liefert nur Satz 1, das Zeichen und die Erfahrung aus anderen Wegen.
+
+Der folgende Weg ist *einer von vielen*. Er ist ausführlich beschrieben, weil hier die Idee entstanden ist, nicht weil er wichtiger wäre.
+
+== Ein Weg unter vielen: Berlin → Levante („Weg der Nahtstellen“)
 
 Ungefähr 4.500 km zu Fuß, dazu Überfahrten. In Tagesetappen von etwa 25 km ergibt das rund 180 Gehtage. Mit Ruhetagen und Übergaben ist ein Jahr realistisch:
 
 * *Start:* 21.09.2027 (Weltfriedenstag), Berlin
-* *Ankunft:* 21.09.2028, Jerusalem
+* *Ankunft:* 21.09.2028, bei israelischen *und* palästinensischen Gastgebern gemeinsam, an einem Ort, den sie wählen
 
 [cols="1,3,4,2",options="header"]
 |===
@@ -155,16 +168,16 @@ Ungefähr 4.500 km zu Fuß, dazu Überfahrten. In Tagesetappen von etwa 25 km er
 
 | 9
 | Überfahrt → *Haifa → Jaffa → Jerusalem*, ca. 150 km
-| Haifa und Jaffa sind gemischte jüdisch-arabische Städte. Ziel ist die Altstadt von Jerusalem mit heiligen Stätten der drei abrahamitischen Religionen.
+| Haifa und Jaffa sind gemischte jüdisch-arabische Städte. Ob und wie der Weg weitergeht, entscheiden die Gastgeber beider Seiten gemeinsam.
 | ja, Lage prüfen
 
 | 10
-| *Ankunft Jerusalem*, 21.09.2028
+| *Ankunft*, 21.09.2028, an einem Ort, den die Gastgeber gemeinsam wählen
 | Übergabe des Buches an israelische *und* palästinensische Gastgeber gemeinsam
 | ja
 |===
 
-=== Praktische Hinweise zur Hauptroute
+=== Praktische Hinweise zum Weg Berlin–Levante
 
 * *Kosovo:* Serbien erkennt Einreisen über Kosovo nicht an. Die Route führt deshalb über Montenegro und Nordmazedonien und nach Kosovo nicht zurück nach Serbien.
 * *Zypern:* Man reist über die Republik Zypern ein (Larnaka oder Limassol). Eine Einreise über Häfen im Norden gilt für die Republik als illegale Einreise.
@@ -179,20 +192,20 @@ Der Ausgangstext nennt Jerusalem, Mekka, Gaza, die Ukraine und Teheran. Die Rout
 [cols="1,4",options="header"]
 |===
 | Ort | Wie er vorkommt
-| *Jerusalem* | Ziel der Hauptroute
+| *Jerusalem* | Kein festes Ziel. Der Weg Berlin–Levante endet dort nur, wenn Gastgeber beider Seiten es gemeinsam wollen.
 | *Ukraine* | Bis Medyka von außen, im Land selbst durch die innere Staffel
 | *Gaza* | Wird nicht betreten. Menschen in Gaza machen von ihrer Tür aus mit.
 | *Teheran* | Keine Etappe, solange Krieg ist. Iranische Teilnehmer und die Diaspora tragen „von innen“.
 | *Mekka* | Darf nur von Muslimen betreten werden. Muslimische Teilnehmer können ihren Zivilistenpass bei Umra oder Hadsch mitnehmen. Der Hadsch zeigt jedes Jahr, dass fast zwei Millionen Menschen aus aller Welt friedlich gemeinsam pilgern können.
 |===
 
-== Sternwege
+== Weitere Wege
 
-Die Hauptroute ist nicht die einzige. *Sternwege* sind kurze Etappen an anderen Nahtstellen der Welt, getragen von Menschen vor Ort. Alle finden am 21. September statt, gleichzeitig mit der Hauptroute.
+Diese Wege sind *gleichwertig* mit dem Weg Berlin–Levante. Sie verbinden andere Nahtstellen der Welt, werden von Menschen vor Ort getragen und kommen am selben Tag an, dem 21. September. Die Liste ist ein Anfang: Jeder Ort kann einen Weg beginnen.
 
 [cols="2,3,3",options="header"]
 |===
-| Sternweg | Nahtstelle | Form
+| Weg | Nahtstelle | Form
 
 | *Kaukasus*
 | Tiflis → armenisch-türkische Grenze (Gjumri / Ani)
@@ -232,10 +245,10 @@ Die Hauptroute ist nicht die einzige. *Sternwege* sind kurze Etappen an anderen 
 [cols="1,3",options="header"]
 |===
 | Wann | Was
-| bis Sep 2027 | Umsetzungsplan Phase 0–3 (siehe link:konzept.adoc[Konzept]). Gastgeber entlang der Hauptroute suchen, beginnend mit Etappe 1–2 in Deutschland und Polen.
-| 21.09.2027 | Start der Hauptroute in Berlin, erste Sternwege, weltweiter „Schritt vor die Tür“
-| Okt 2027 – Sep 2028 | Staffel Berlin → Jerusalem. Jede Etappe wird online dokumentiert, und das Buch wird dicker.
-| 21.09.2028 | Ankunft in Jerusalem, Sternwege weltweit, zweiter „Schritt vor die Tür“
+| bis Sep 2027 | Umsetzungsplan Phase 0–3 (siehe link:konzept.adoc[Konzept]). Gastgeber für die ersten Wege suchen, zum Beispiel mit Etappe 1–2 in Deutschland und Polen.
+| 21.09.2027 | Erster gemeinsamer Tag: Wege beginnen überall gleichzeitig (auch Berlin), weltweiter „Schritt vor die Tür“ und Glas Wasser im Fenster
+| Okt 2027 – Sep 2028 | Die Wege laufen als Staffeln weiter. Jede Etappe wird dokumentiert, und die Bücher werden dicker.
+| 21.09.2028 | Zweiter gemeinsamer Tag: Alle Wege kommen gleichzeitig an, jeder an seinem Ort oder an einer Grenze, an der sich beide Seiten treffen
 |===
 
 == Quellen

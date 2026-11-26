@@ -34,7 +34,7 @@ PRINT = {
 }
 MORE = {
     "de": [(f"{GITHUB}/blob/main/konzept.adoc", "Konzept"),
-           (f"{GITHUB}/blob/main/route.adoc", "Pilgerroute Berlin → Jerusalem")],
+           (f"{GITHUB}/blob/main/route.adoc", "Pilgerwege: viele Wege, ein Tag")],
 }
 
 e = html.escape
