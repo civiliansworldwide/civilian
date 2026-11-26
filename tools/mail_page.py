@@ -4,7 +4,8 @@
 Aufruf (im Repo-Verzeichnis):  python3 -I tools/mail_page.py
 
 Absenderdaten stehen in kontakte/absender.json (bleibt lokal, kontakte/ ist in .gitignore):
-  {"vorname": "...", "nachname": "...", "stadt": "..."}
+  {"vorname": "...", "nachname": "...", "stadt": "..."}   (nachname darf leer sein;
+  optional stadt_en / stadt_fr / stadt_it für den Städtenamen in fremdsprachigen Mails)
 
 Jede Mail wird über einen Knopf in Proton Mail geöffnet (fertig ausgefüllt) und dort
 von Hand gesendet. Nichts wird automatisch verschickt.
@@ -38,14 +39,19 @@ def main():
     rows = {r["nr"]: r for r in csv.DictReader(open(K / "auswahl.csv", encoding="utf-8"))}
     ab_path = K / "absender.json"
     ab = json.loads(ab_path.read_text(encoding="utf-8")) if ab_path.exists() else {}
-    missing = [k for k in ("vorname", "nachname", "stadt") if not ab.get(k)]
+    missing = [k for k in ("vorname", "stadt") if not ab.get(k)]
 
     cards = []
     for m in mails:
         t = m["text"]
         if not missing:
-            t = (t.replace("[Vorname]", ab["vorname"]).replace("[Nachname]", ab["nachname"])
-                  .replace("[Stadt]", ab["stadt"]))
+            nn = ab.get("nachname", "").strip()
+            lang = ("en" if t.startswith("Dear") else "fr" if t.startswith("Bonjour")
+                    else "it" if t.startswith("Buongiorno") else "de")
+            stadt = ab.get(f"stadt_{lang}", ab["stadt"])
+            t = t.replace("[Vorname] [Nachname]", f"{ab['vorname']} {nn}".strip())
+            t = (t.replace("[Vorname]", ab["vorname"]).replace("[Nachname]", nn)
+                  .replace("[Stadt]", stadt))
         addr = m["an"].split()[0]
         r = rows.get(m["nr"], {})
         site = r.get("fundstelle", "")
